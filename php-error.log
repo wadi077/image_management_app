@@ -1,0 +1,5439 @@
+echo "<pre>";
+[20-Apr-2018 11:57:36 UTC] Hello, errors!
+[20-Apr-2018 11:57:40 UTC] Hello, errors!
+[20-Apr-2018 11:57:43 UTC] Hello, errors!
+[20-Apr-2018 11:58:00 UTC] 1
+[20-Apr-2018 11:58:35 UTC] 1
+[20-Apr-2018 11:59:19 UTC] 
+[20-Apr-2018 12:00:05 UTC] 
+[20-Apr-2018 12:01:24 UTC] 1
+[20-Apr-2018 12:01:39 UTC] 1
+[20-Apr-2018 12:05:14 UTC] 1
+[20-Apr-2018 12:06:08 UTC] 
+[20-Apr-2018 12:06:29 UTC] 1
+[20-Apr-2018 12:06:43 UTC] 
+[20-Apr-2018 12:08:54 UTC] 1
+[20-Apr-2018 12:09:56 UTC] 
+[20-Apr-2018 12:10:47 UTC] 
+[20-Apr-2018 12:12:54 UTC] 1
+[20-Apr-2018 12:13:04 UTC] 1
+[20-Apr-2018 12:19:54 UTC] 1
+[20-Apr-2018 12:22:07 UTC] 1
+[20-Apr-2018 12:24:17 UTC] 1
+[20-Apr-2018 12:25:35 UTC] 
+[20-Apr-2018 12:27:19 UTC] 
+[20-Apr-2018 12:27:55 UTC] 1
+[20-Apr-2018 12:35:05 UTC] 1
+[20-Apr-2018 12:38:46 UTC] 1
+[20-Apr-2018 12:39:08 UTC] 1
+[20-Apr-2018 12:40:59 UTC] 1
+[20-Apr-2018 12:45:22 UTC] 1
+[20-Apr-2018 12:48:05 UTC] 1
+[20-Apr-2018 12:50:56 UTC] 1
+[20-Apr-2018 12:53:28 UTC] 1
+[20-Apr-2018 12:54:51 UTC] 1
+[20-Apr-2018 12:58:32 UTC] 1
+[20-Apr-2018 13:05:04 UTC] 1
+[20-Apr-2018 13:05:14 UTC] 1
+[20-Apr-2018 13:07:14 UTC] 1
+[20-Apr-2018 13:07:21 UTC] 1
+[20-Apr-2018 13:17:46 UTC] 1
+[20-Apr-2018 13:31:03 UTC] 1
+[20-Apr-2018 13:31:11 UTC] 1
+[20-Apr-2018 13:38:25 UTC] 1
+[20-Apr-2018 13:38:39 UTC] 
+[20-Apr-2018 14:06:03 UTC] 1
+[20-Apr-2018 14:31:06 UTC] 
+[20-Apr-2018 14:31:31 UTC] 
+[20-Apr-2018 14:49:13 UTC] 1
+[20-Apr-2018 14:49:22 UTC] 
+[20-Apr-2018 15:01:55 UTC] 1
+[20-Apr-2018 15:04:56 UTC] 1
+[20-Apr-2018 15:05:17 UTC] 
+[20-Apr-2018 15:12:22 UTC] 1
+[20-Apr-2018 15:12:25 UTC] 1
+[20-Apr-2018 15:12:57 UTC] 1
+[20-Apr-2018 15:13:07 UTC] 1
+[20-Apr-2018 15:13:12 UTC] 1
+[20-Apr-2018 15:13:35 UTC] 
+[20-Apr-2018 15:14:43 UTC] 
+[20-Apr-2018 15:15:35 UTC] 
+[20-Apr-2018 15:15:46 UTC] 1
+[20-Apr-2018 15:16:43 UTC] 1
+[20-Apr-2018 15:16:51 UTC] 1
+[20-Apr-2018 15:17:13 UTC] 
+[20-Apr-2018 15:17:23 UTC] 
+[20-Apr-2018 15:17:32 UTC] 1
+[20-Apr-2018 15:17:41 UTC] 1
+[20-Apr-2018 15:17:42 UTC] 1
+[20-Apr-2018 15:17:51 UTC] 1
+[20-Apr-2018 15:17:58 UTC] 1
+[20-Apr-2018 15:18:10 UTC] 1
+[20-Apr-2018 15:18:21 UTC] 1
+[20-Apr-2018 15:18:24 UTC] 1
+[20-Apr-2018 15:18:25 UTC] 1
+[20-Apr-2018 15:18:26 UTC] 1
+[20-Apr-2018 15:18:26 UTC] 1
+[20-Apr-2018 15:18:27 UTC] 1
+[20-Apr-2018 15:18:28 UTC] 1
+[20-Apr-2018 15:18:34 UTC] 1
+[20-Apr-2018 15:18:35 UTC] 1
+[20-Apr-2018 15:18:43 UTC] 1
+[20-Apr-2018 15:18:51 UTC] 1
+[20-Apr-2018 15:18:52 UTC] 1
+[20-Apr-2018 15:19:15 UTC] 1
+[20-Apr-2018 15:20:03 UTC] 1
+[20-Apr-2018 15:20:06 UTC] 1
+[20-Apr-2018 15:20:15 UTC] 1
+[20-Apr-2018 15:20:24 UTC] 1
+[20-Apr-2018 15:21:45 UTC] 1
+[20-Apr-2018 15:21:48 UTC] 1
+[20-Apr-2018 15:21:51 UTC] 1
+[20-Apr-2018 15:21:58 UTC] 1
+[20-Apr-2018 15:22:40 UTC] 1
+[20-Apr-2018 15:23:11 UTC] 1
+[20-Apr-2018 15:23:13 UTC] 1
+[20-Apr-2018 15:23:22 UTC] 1
+[20-Apr-2018 15:24:25 UTC] 1
+[20-Apr-2018 15:24:25 UTC] 1
+[20-Apr-2018 15:24:50 UTC] 1
+[20-Apr-2018 15:24:50 UTC] 1
+[20-Apr-2018 15:24:56 UTC] 1
+[20-Apr-2018 15:25:17 UTC] 1
+[20-Apr-2018 15:25:18 UTC] 1
+[20-Apr-2018 15:25:20 UTC] 1
+[20-Apr-2018 15:25:51 UTC] 1
+[20-Apr-2018 15:26:02 UTC] 1
+[20-Apr-2018 15:26:02 UTC] 1
+[20-Apr-2018 15:26:08 UTC] 1
+[20-Apr-2018 15:27:39 UTC] 1
+[20-Apr-2018 15:27:40 UTC] 1
+[20-Apr-2018 15:28:20 UTC] 1
+[20-Apr-2018 15:28:24 UTC] 1
+[20-Apr-2018 15:30:56 UTC] 1
+[20-Apr-2018 15:31:04 UTC] 1
+[20-Apr-2018 15:31:04 UTC] 1
+[20-Apr-2018 15:31:10 UTC] 1
+[20-Apr-2018 15:31:35 UTC] 
+[20-Apr-2018 15:31:42 UTC] 1
+[20-Apr-2018 15:31:42 UTC] 1
+[20-Apr-2018 16:01:23 UTC] 
+[20-Apr-2018 16:02:23 UTC] 
+[20-Apr-2018 16:06:46 UTC] 
+[20-Apr-2018 16:07:06 UTC] 
+[20-Apr-2018 16:07:06 UTC] 
+[20-Apr-2018 16:07:06 UTC] 
+[20-Apr-2018 16:07:06 UTC] 
+[20-Apr-2018 16:07:06 UTC] 
+[20-Apr-2018 16:07:06 UTC] 
+[20-Apr-2018 16:07:06 UTC] 
+[20-Apr-2018 16:07:06 UTC] 
+[20-Apr-2018 16:07:06 UTC] 
+[20-Apr-2018 16:07:06 UTC] 
+[20-Apr-2018 16:07:06 UTC] 
+[20-Apr-2018 16:07:06 UTC] 
+[20-Apr-2018 16:07:06 UTC] 
+[20-Apr-2018 16:07:06 UTC] 
+[20-Apr-2018 16:07:06 UTC] 
+[20-Apr-2018 16:07:06 UTC] 
+[20-Apr-2018 16:07:06 UTC] 
+[20-Apr-2018 16:07:06 UTC] 
+[20-Apr-2018 16:07:06 UTC] 
+[20-Apr-2018 16:07:06 UTC] 
+[20-Apr-2018 16:07:06 UTC] 
+[20-Apr-2018 16:07:07 UTC] 
+[20-Apr-2018 16:07:07 UTC] 
+[20-Apr-2018 16:07:07 UTC] 
+[20-Apr-2018 16:07:07 UTC] 
+[20-Apr-2018 16:07:07 UTC] 
+[20-Apr-2018 16:07:07 UTC] 
+[20-Apr-2018 16:07:07 UTC] 
+[20-Apr-2018 16:07:07 UTC] 
+[20-Apr-2018 16:07:07 UTC] 
+[20-Apr-2018 16:07:07 UTC] 
+[20-Apr-2018 16:07:07 UTC] 
+[20-Apr-2018 16:07:07 UTC] 
+[20-Apr-2018 16:07:07 UTC] 
+[20-Apr-2018 16:07:07 UTC] 
+[20-Apr-2018 16:07:07 UTC] 
+[20-Apr-2018 16:07:07 UTC] 
+[20-Apr-2018 16:07:07 UTC] 
+[20-Apr-2018 16:07:07 UTC] 
+[20-Apr-2018 16:07:07 UTC] 
+[20-Apr-2018 16:07:07 UTC] 
+[20-Apr-2018 16:07:07 UTC] 
+[20-Apr-2018 16:07:07 UTC] 
+[20-Apr-2018 16:07:07 UTC] 
+[20-Apr-2018 16:07:07 UTC] 
+[20-Apr-2018 16:07:07 UTC] 
+[20-Apr-2018 16:07:07 UTC] 
+[20-Apr-2018 16:07:07 UTC] 
+[20-Apr-2018 16:07:07 UTC] 
+[20-Apr-2018 16:07:07 UTC] 
+[20-Apr-2018 16:07:07 UTC] 
+[20-Apr-2018 16:07:07 UTC] 
+[20-Apr-2018 16:07:07 UTC] 
+[20-Apr-2018 16:07:07 UTC] 
+[20-Apr-2018 16:07:07 UTC] 
+[20-Apr-2018 16:07:07 UTC] 
+[20-Apr-2018 16:07:07 UTC] 
+[20-Apr-2018 16:07:07 UTC] 
+[20-Apr-2018 16:07:07 UTC] 
+[20-Apr-2018 16:07:07 UTC] 
+[20-Apr-2018 16:07:07 UTC] 
+[20-Apr-2018 16:07:07 UTC] 
+[20-Apr-2018 16:07:07 UTC] 
+[20-Apr-2018 16:07:12 UTC] 
+[20-Apr-2018 16:07:12 UTC] 
+[20-Apr-2018 16:07:12 UTC] 
+[20-Apr-2018 16:07:12 UTC] 
+[20-Apr-2018 16:07:12 UTC] 
+[20-Apr-2018 16:07:12 UTC] 
+[20-Apr-2018 16:07:12 UTC] 
+[20-Apr-2018 16:07:12 UTC] 
+[20-Apr-2018 16:07:12 UTC] 
+[20-Apr-2018 16:07:12 UTC] 
+[20-Apr-2018 16:07:12 UTC] 
+[20-Apr-2018 16:07:12 UTC] 
+[20-Apr-2018 16:07:12 UTC] 
+[20-Apr-2018 16:07:12 UTC] 
+[20-Apr-2018 16:07:12 UTC] 
+[20-Apr-2018 16:07:12 UTC] 
+[20-Apr-2018 16:07:12 UTC] 
+[20-Apr-2018 16:07:12 UTC] 
+[20-Apr-2018 16:07:12 UTC] 
+[20-Apr-2018 16:07:12 UTC] 
+[20-Apr-2018 16:07:12 UTC] 
+[20-Apr-2018 16:07:43 UTC] 
+[20-Apr-2018 16:07:43 UTC] 
+[20-Apr-2018 16:07:43 UTC] 
+[20-Apr-2018 16:07:43 UTC] 
+[20-Apr-2018 16:07:43 UTC] 
+[20-Apr-2018 16:07:43 UTC] 
+[20-Apr-2018 16:07:43 UTC] 
+[20-Apr-2018 16:07:43 UTC] 
+[20-Apr-2018 16:07:43 UTC] 
+[20-Apr-2018 16:07:43 UTC] 
+[20-Apr-2018 16:07:43 UTC] 
+[20-Apr-2018 16:07:43 UTC] 
+[20-Apr-2018 16:07:43 UTC] 
+[20-Apr-2018 16:07:43 UTC] 
+[20-Apr-2018 16:07:43 UTC] 
+[20-Apr-2018 16:07:43 UTC] 
+[20-Apr-2018 16:07:43 UTC] 
+[20-Apr-2018 16:07:43 UTC] 
+[20-Apr-2018 16:07:43 UTC] 
+[20-Apr-2018 16:07:43 UTC] 
+[20-Apr-2018 16:07:43 UTC] 
+[20-Apr-2018 16:08:13 UTC] 
+[20-Apr-2018 16:08:13 UTC] 
+[20-Apr-2018 16:08:13 UTC] 
+[20-Apr-2018 16:08:13 UTC] 
+[20-Apr-2018 16:08:13 UTC] 
+[20-Apr-2018 16:08:13 UTC] 
+[20-Apr-2018 16:08:13 UTC] 
+[20-Apr-2018 16:08:13 UTC] 
+[20-Apr-2018 16:08:13 UTC] 
+[20-Apr-2018 16:08:13 UTC] 
+[20-Apr-2018 16:08:13 UTC] 
+[20-Apr-2018 16:08:13 UTC] 
+[20-Apr-2018 16:08:13 UTC] 
+[20-Apr-2018 16:08:13 UTC] 
+[20-Apr-2018 16:08:13 UTC] 
+[20-Apr-2018 16:08:13 UTC] 
+[20-Apr-2018 16:08:13 UTC] 
+[20-Apr-2018 16:08:13 UTC] 
+[20-Apr-2018 16:08:13 UTC] 
+[20-Apr-2018 16:08:13 UTC] 
+[20-Apr-2018 16:08:13 UTC] 
+[20-Apr-2018 16:08:13 UTC] 
+[20-Apr-2018 16:08:13 UTC] 
+[20-Apr-2018 16:08:13 UTC] 
+[20-Apr-2018 16:08:14 UTC] 
+[20-Apr-2018 16:08:14 UTC] 
+[20-Apr-2018 16:08:14 UTC] 
+[20-Apr-2018 16:08:14 UTC] 
+[20-Apr-2018 16:08:14 UTC] 
+[20-Apr-2018 16:08:14 UTC] 
+[20-Apr-2018 16:08:14 UTC] 
+[20-Apr-2018 16:08:14 UTC] 
+[20-Apr-2018 16:08:14 UTC] 
+[20-Apr-2018 16:08:14 UTC] 
+[20-Apr-2018 16:08:14 UTC] 
+[20-Apr-2018 16:08:14 UTC] 
+[20-Apr-2018 16:08:14 UTC] 
+[20-Apr-2018 16:08:14 UTC] 
+[20-Apr-2018 16:08:14 UTC] 
+[20-Apr-2018 16:08:14 UTC] 
+[20-Apr-2018 16:08:14 UTC] 
+[20-Apr-2018 16:08:14 UTC] 
+[20-Apr-2018 16:08:27 UTC] 
+[20-Apr-2018 16:08:27 UTC] 
+[20-Apr-2018 16:08:27 UTC] 
+[20-Apr-2018 16:08:27 UTC] 
+[20-Apr-2018 16:08:27 UTC] 
+[20-Apr-2018 16:08:27 UTC] 
+[20-Apr-2018 16:08:27 UTC] 
+[20-Apr-2018 16:08:27 UTC] 
+[20-Apr-2018 16:08:27 UTC] 
+[20-Apr-2018 16:08:27 UTC] 
+[20-Apr-2018 16:08:27 UTC] 
+[20-Apr-2018 16:08:27 UTC] 
+[20-Apr-2018 16:08:27 UTC] 
+[20-Apr-2018 16:08:27 UTC] 
+[20-Apr-2018 16:08:27 UTC] 
+[20-Apr-2018 16:08:27 UTC] 
+[20-Apr-2018 16:08:27 UTC] 
+[20-Apr-2018 16:08:27 UTC] 
+[20-Apr-2018 16:08:27 UTC] 
+[20-Apr-2018 16:08:27 UTC] 
+[20-Apr-2018 16:08:27 UTC] 
+[20-Apr-2018 16:08:35 UTC] 
+[20-Apr-2018 16:08:40 UTC] 
+[20-Apr-2018 16:08:42 UTC] 
+[20-Apr-2018 16:08:47 UTC] 
+[20-Apr-2018 16:08:52 UTC] 
+[20-Apr-2018 16:08:54 UTC] 
+[20-Apr-2018 16:09:26 UTC] 
+[20-Apr-2018 16:09:33 UTC] 
+[20-Apr-2018 16:09:56 UTC] 
+[20-Apr-2018 16:10:37 UTC] 
+[20-Apr-2018 16:10:40 UTC] 
+[20-Apr-2018 16:11:06 UTC] 
+[20-Apr-2018 16:14:05 UTC] Modearator
+[20-Apr-2018 16:14:12 UTC] Modearator
+[20-Apr-2018 16:14:50 UTC] Modearator
+[20-Apr-2018 16:14:50 UTC] Modearator
+[20-Apr-2018 16:14:53 UTC] Modearator
+[20-Apr-2018 16:16:16 UTC] 
+[20-Apr-2018 16:16:16 UTC] Modearator
+[20-Apr-2018 16:16:23 UTC] 
+[20-Apr-2018 16:16:23 UTC] Modearator
+[20-Apr-2018 16:16:51 UTC] 
+[20-Apr-2018 16:16:51 UTC] Modearator
+[20-Apr-2018 16:16:54 UTC] 
+[20-Apr-2018 16:16:54 UTC] Modearator
+[20-Apr-2018 16:19:32 UTC] 
+[20-Apr-2018 16:19:37 UTC] 
+[20-Apr-2018 16:21:18 UTC] app\models\User Object
+(
+    [_attributes:yii\db\BaseActiveRecord:private] => Array
+        (
+            [id] => 1
+            [username] => moderator
+            [auth_key] => OFWWja3rby9no1rRra9bVIW88fT60dLn
+            [password_hash] => $2y$13$jhLNYgJyd3srbHyH7Mh9JuHLry0c9csiudewEjJbjVBcxbrdCUMNG
+            [password_reset_token] => 
+            [email] => moderator@yahoo.com
+            [status] => 10
+            [type] => 0
+            [created_at] => 1524234666
+            [updated_at] => 1524234666
+        )
+
+    [_oldAttributes:yii\db\BaseActiveRecord:private] => Array
+        (
+            [id] => 1
+            [username] => moderator
+            [auth_key] => OFWWja3rby9no1rRra9bVIW88fT60dLn
+            [password_hash] => $2y$13$jhLNYgJyd3srbHyH7Mh9JuHLry0c9csiudewEjJbjVBcxbrdCUMNG
+            [password_reset_token] => 
+            [email] => moderator@yahoo.com
+            [status] => 10
+            [type] => 0
+            [created_at] => 1524234666
+            [updated_at] => 1524234666
+        )
+
+    [_related:yii\db\BaseActiveRecord:private] => Array
+        (
+        )
+
+    [_relationsDependencies:yii\db\BaseActiveRecord:private] => Array
+        (
+        )
+
+    [_errors:yii\base\Model:private] => 
+    [_validators:yii\base\Model:private] => 
+    [_scenario:yii\base\Model:private] => default
+    [_events:yii\base\Component:private] => Array
+        (
+            [beforeInsert] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => yii\behaviors\TimestampBehavior Object
+                                        (
+                                            [createdAtAttribute] => created_at
+                                            [updatedAtAttribute] => updated_at
+                                            [value] => 
+                                            [attributes] => Array
+                                                (
+                                                    [beforeInsert] => Array
+                                                        (
+                                                            [0] => created_at
+                                                            [1] => updated_at
+                                                        )
+
+                                                    [beforeUpdate] => updated_at
+                                                )
+
+                                            [skipUpdateOnClean] => 1
+                                            [preserveNonEmptyValues] => 
+                                            [owner] => app\models\User Object
+ *RECURSION*
+                                        )
+
+                                    [1] => evaluateAttributes
+                                )
+
+                            [1] => 
+                        )
+
+                )
+
+            [beforeUpdate] => Array
+                (
+                    [0] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => yii\behaviors\TimestampBehavior Object
+                                        (
+                                            [createdAtAttribute] => created_at
+                                            [updatedAtAttribute] => updated_at
+                                            [value] => 
+                                            [attributes] => Array
+                                                (
+                                                    [beforeInsert] => Array
+                                                        (
+                                                            [0] => created_at
+                                                            [1] => updated_at
+                                                        )
+
+                                                    [beforeUpdate] => updated_at
+                                                )
+
+                                            [skipUpdateOnClean] => 1
+                                            [preserveNonEmptyValues] => 
+                                            [owner] => app\models\User Object
+ *RECURSION*
+                                        )
+
+                                    [1] => evaluateAttributes
+                                )
+
+                            [1] => 
+                        )
+
+                )
+
+        )
+
+    [_eventWildcards:yii\base\Component:private] => Array
+        (
+        )
+
+    [_behaviors:yii\base\Component:private] => Array
+        (
+            [0] => yii\behaviors\TimestampBehavior Object
+                (
+                    [createdAtAttribute] => created_at
+                    [updatedAtAttribute] => updated_at
+                    [value] => 
+                    [attributes] => Array
+                        (
+                            [beforeInsert] => Array
+                                (
+                                    [0] => created_at
+                                    [1] => updated_at
+                                )
+
+                            [beforeUpdate] => updated_at
+                        )
+
+                    [skipUpdateOnClean] => 1
+                    [preserveNonEmptyValues] => 
+                    [owner] => app\models\User Object
+ *RECURSION*
+                )
+
+        )
+
+)
+
+[20-Apr-2018 16:22:13 UTC] 0
+[20-Apr-2018 16:22:50 UTC] 1
+[20-Apr-2018 16:22:51 UTC] 1
+[20-Apr-2018 16:26:30 UTC] 0
+[20-Apr-2018 16:26:30 UTC] Moderator
+[20-Apr-2018 16:26:57 UTC] 1
+[20-Apr-2018 16:26:57 UTC] Uploader
+[20-Apr-2018 16:28:22 UTC] 0
+[20-Apr-2018 16:28:22 UTC] Moderator
+[20-Apr-2018 16:28:38 UTC] 0
+[20-Apr-2018 16:28:38 UTC] Moderator
+[20-Apr-2018 16:35:54 UTC] 1
+[20-Apr-2018 16:35:54 UTC] Uploader
+[20-Apr-2018 16:41:54 UTC] 1
+[20-Apr-2018 16:41:54 UTC] Uploader
+[20-Apr-2018 16:42:05 UTC] 0
+[20-Apr-2018 16:42:05 UTC] Moderator
+[20-Apr-2018 19:49:46 UTC] test
+[20-Apr-2018 20:21:25 UTC] test
+[20-Apr-2018 20:28:07 UTC] test
+[20-Apr-2018 20:29:12 UTC] test
+[20-Apr-2018 20:32:18 UTC] test
+[20-Apr-2018 20:33:01 UTC] test
+[20-Apr-2018 20:35:33 UTC] test
+[20-Apr-2018 20:40:39 UTC] test
+[20-Apr-2018 20:41:31 UTC] test
+[20-Apr-2018 20:41:49 UTC] test
+[20-Apr-2018 20:42:37 UTC] 002.jpg
+[20-Apr-2018 20:43:09 UTC] 1
+[20-Apr-2018 20:43:56 UTC] d833a914352439d1e5037fffaa5f7685.jpg
+[20-Apr-2018 20:48:12 UTC] 5b1bb182688dc9d6f99efaf8b6058253.jpg
+[20-Apr-2018 20:50:30 UTC] dda1c35902c5d052e93c464e24fc2665.jpg
+[20-Apr-2018 20:50:41 UTC] f8f25eeead8dddc7e36f3b025af06111.jpg
+[20-Apr-2018 20:51:37 UTC] 237e835cd05267795daf5b10ca47767b.jpg
+[20-Apr-2018 20:54:26 UTC] f412102f7c37e016f9966684fbe7969a.jpg
+[20-Apr-2018 20:57:54 UTC] 002.jpg
+[20-Apr-2018 20:58:19 UTC] 76b39d23019bdd5ff9799a32fb8edaaa.jpg
+[20-Apr-2018 20:58:51 UTC] app\models\ImageUpload Object
+(
+    [photoNewName] => 9cfe36c2fd3ea7a93b2fa923afe945a0.jpg
+    [name] => 9cfe36c2fd3ea7a93b2fa923afe945a0.jpg
+    [_attributes:yii\db\BaseActiveRecord:private] => Array
+        (
+            [user_id] => 2
+            [status] => 0
+        )
+
+    [_oldAttributes:yii\db\BaseActiveRecord:private] => 
+    [_related:yii\db\BaseActiveRecord:private] => Array
+        (
+        )
+
+    [_relationsDependencies:yii\db\BaseActiveRecord:private] => Array
+        (
+        )
+
+    [_errors:yii\base\Model:private] => Array
+        (
+        )
+
+    [_validators:yii\base\Model:private] => ArrayObject Object
+        (
+            [storage:ArrayObject:private] => Array
+                (
+                    [0] => yii\validators\RequiredValidator Object
+                        (
+                            [skipOnEmpty] => 
+                            [requiredValue] => 
+                            [strict] => 
+                            [message] => {attribute} cannot be blank.
+                            [attributes] => Array
+                                (
+                                    [0] => name
+                                    [1] => user_id
+                                    [2] => status
+                                )
+
+                            [on] => Array
+                                (
+                                )
+
+                            [except] => Array
+                                (
+                                )
+
+                            [skipOnError] => 1
+                            [enableClientValidation] => 1
+                            [isEmpty] => 
+                            [when] => 
+                            [whenClient] => 
+                            [_events:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_eventWildcards:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_behaviors:yii\base\Component:private] => 
+                        )
+
+                    [1] => yii\validators\NumberValidator Object
+                        (
+                            [integerOnly] => 1
+                            [max] => 
+                            [min] => 
+                            [tooBig] => 
+                            [tooSmall] => 
+                            [integerPattern] => /^\s*[+-]?\d+\s*$/
+                            [numberPattern] => /^\s*[-+]?[0-9]*\.?[0-9]+([eE][-+]?[0-9]+)?\s*$/
+                            [attributes] => Array
+                                (
+                                    [0] => user_id
+                                    [1] => status
+                                )
+
+                            [message] => {attribute} must be an integer.
+                            [on] => Array
+                                (
+                                )
+
+                            [except] => Array
+                                (
+                                )
+
+                            [skipOnError] => 1
+                            [skipOnEmpty] => 1
+                            [enableClientValidation] => 1
+                            [isEmpty] => 
+                            [when] => 
+                            [whenClient] => 
+                            [_events:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_eventWildcards:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_behaviors:yii\base\Component:private] => 
+                        )
+
+                    [2] => yii\validators\FileValidator Object
+                        (
+                            [extensions] => Array
+                                (
+                                    [0] => png
+                                    [1] => jpg
+                                    [2] => jpeg
+                                )
+
+                            [checkExtensionByMimeType] => 1
+                            [mimeTypes] => Array
+                                (
+                                )
+
+                            [minSize] => 
+                            [maxSize] => 
+                            [maxFiles] => 1
+                            [minFiles] => 0
+                            [message] => File upload failed.
+                            [uploadRequired] => Please upload a file.
+                            [tooBig] => The file "{file}" is too big. Its size cannot exceed {formattedLimit}.
+                            [tooSmall] => The file "{file}" is too small. Its size cannot be smaller than {formattedLimit}.
+                            [tooMany] => You can upload at most {limit, number} {limit, plural, one{file} other{files}}.
+                            [tooFew] => You should upload at least {limit, number} {limit, plural, one{file} other{files}}.
+                            [wrongExtension] => Only files with these extensions are allowed: {extensions}.
+                            [wrongMimeType] => Only files with these MIME types are allowed: {mimeTypes}.
+                            [attributes] => Array
+                                (
+                                    [0] => name
+                                )
+
+                            [on] => Array
+                                (
+                                )
+
+                            [except] => Array
+                                (
+                                )
+
+                            [skipOnError] => 1
+                            [skipOnEmpty] => 1
+                            [enableClientValidation] => 1
+                            [isEmpty] => 
+                            [when] => 
+                            [whenClient] => 
+                            [_events:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_eventWildcards:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_behaviors:yii\base\Component:private] => 
+                        )
+
+                )
+
+        )
+
+    [_scenario:yii\base\Model:private] => default
+    [_events:yii\base\Component:private] => Array
+        (
+        )
+
+    [_eventWildcards:yii\base\Component:private] => Array
+        (
+        )
+
+    [_behaviors:yii\base\Component:private] => Array
+        (
+        )
+
+)
+
+[20-Apr-2018 21:00:30 UTC] app\models\ImageUpload Object
+(
+    [photoNewName] => f63318442d522e36b6a0ab3edfe55738.jpg
+    [name] => yii\web\UploadedFile Object
+        (
+            [name] => 002.jpg
+            [tempName] => /tmp/php0skFlt
+            [type] => image/jpeg
+            [size] => 366372
+            [error] => 0
+        )
+
+    [_attributes:yii\db\BaseActiveRecord:private] => Array
+        (
+            [user_id] => 2
+            [status] => 0
+        )
+
+    [_oldAttributes:yii\db\BaseActiveRecord:private] => 
+    [_related:yii\db\BaseActiveRecord:private] => Array
+        (
+        )
+
+    [_relationsDependencies:yii\db\BaseActiveRecord:private] => Array
+        (
+        )
+
+    [_errors:yii\base\Model:private] => Array
+        (
+        )
+
+    [_validators:yii\base\Model:private] => ArrayObject Object
+        (
+            [storage:ArrayObject:private] => Array
+                (
+                    [0] => yii\validators\RequiredValidator Object
+                        (
+                            [skipOnEmpty] => 
+                            [requiredValue] => 
+                            [strict] => 
+                            [message] => {attribute} cannot be blank.
+                            [attributes] => Array
+                                (
+                                    [0] => name
+                                    [1] => user_id
+                                    [2] => status
+                                )
+
+                            [on] => Array
+                                (
+                                )
+
+                            [except] => Array
+                                (
+                                )
+
+                            [skipOnError] => 1
+                            [enableClientValidation] => 1
+                            [isEmpty] => 
+                            [when] => 
+                            [whenClient] => 
+                            [_events:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_eventWildcards:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_behaviors:yii\base\Component:private] => 
+                        )
+
+                    [1] => yii\validators\NumberValidator Object
+                        (
+                            [integerOnly] => 1
+                            [max] => 
+                            [min] => 
+                            [tooBig] => 
+                            [tooSmall] => 
+                            [integerPattern] => /^\s*[+-]?\d+\s*$/
+                            [numberPattern] => /^\s*[-+]?[0-9]*\.?[0-9]+([eE][-+]?[0-9]+)?\s*$/
+                            [attributes] => Array
+                                (
+                                    [0] => user_id
+                                    [1] => status
+                                )
+
+                            [message] => {attribute} must be an integer.
+                            [on] => Array
+                                (
+                                )
+
+                            [except] => Array
+                                (
+                                )
+
+                            [skipOnError] => 1
+                            [skipOnEmpty] => 1
+                            [enableClientValidation] => 1
+                            [isEmpty] => 
+                            [when] => 
+                            [whenClient] => 
+                            [_events:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_eventWildcards:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_behaviors:yii\base\Component:private] => 
+                        )
+
+                    [2] => yii\validators\FileValidator Object
+                        (
+                            [extensions] => Array
+                                (
+                                    [0] => png
+                                    [1] => jpg
+                                    [2] => jpeg
+                                )
+
+                            [checkExtensionByMimeType] => 1
+                            [mimeTypes] => Array
+                                (
+                                )
+
+                            [minSize] => 
+                            [maxSize] => 
+                            [maxFiles] => 1
+                            [minFiles] => 0
+                            [message] => File upload failed.
+                            [uploadRequired] => Please upload a file.
+                            [tooBig] => The file "{file}" is too big. Its size cannot exceed {formattedLimit}.
+                            [tooSmall] => The file "{file}" is too small. Its size cannot be smaller than {formattedLimit}.
+                            [tooMany] => You can upload at most {limit, number} {limit, plural, one{file} other{files}}.
+                            [tooFew] => You should upload at least {limit, number} {limit, plural, one{file} other{files}}.
+                            [wrongExtension] => Only files with these extensions are allowed: {extensions}.
+                            [wrongMimeType] => Only files with these MIME types are allowed: {mimeTypes}.
+                            [attributes] => Array
+                                (
+                                    [0] => name
+                                )
+
+                            [on] => Array
+                                (
+                                )
+
+                            [except] => Array
+                                (
+                                )
+
+                            [skipOnError] => 1
+                            [skipOnEmpty] => 1
+                            [enableClientValidation] => 1
+                            [isEmpty] => 
+                            [when] => 
+                            [whenClient] => 
+                            [_events:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_eventWildcards:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_behaviors:yii\base\Component:private] => 
+                        )
+
+                )
+
+        )
+
+    [_scenario:yii\base\Model:private] => default
+    [_events:yii\base\Component:private] => Array
+        (
+        )
+
+    [_eventWildcards:yii\base\Component:private] => Array
+        (
+        )
+
+    [_behaviors:yii\base\Component:private] => Array
+        (
+        )
+
+)
+
+[20-Apr-2018 21:02:30 UTC] app\models\ImageUpload Object
+(
+    [photoNewName] => 5d93d29df23baaa1b8d4312c5e62820b.jpg
+    [name] => yii\web\UploadedFile Object
+        (
+            [name] => 5d93d29df23baaa1b8d4312c5e62820b.jpg
+            [tempName] => /tmp/php8utv6u
+            [type] => image/jpeg
+            [size] => 366372
+            [error] => 0
+        )
+
+    [_attributes:yii\db\BaseActiveRecord:private] => Array
+        (
+            [user_id] => 2
+            [status] => 0
+        )
+
+    [_oldAttributes:yii\db\BaseActiveRecord:private] => 
+    [_related:yii\db\BaseActiveRecord:private] => Array
+        (
+        )
+
+    [_relationsDependencies:yii\db\BaseActiveRecord:private] => Array
+        (
+        )
+
+    [_errors:yii\base\Model:private] => Array
+        (
+        )
+
+    [_validators:yii\base\Model:private] => ArrayObject Object
+        (
+            [storage:ArrayObject:private] => Array
+                (
+                    [0] => yii\validators\RequiredValidator Object
+                        (
+                            [skipOnEmpty] => 
+                            [requiredValue] => 
+                            [strict] => 
+                            [message] => {attribute} cannot be blank.
+                            [attributes] => Array
+                                (
+                                    [0] => name
+                                    [1] => user_id
+                                    [2] => status
+                                )
+
+                            [on] => Array
+                                (
+                                )
+
+                            [except] => Array
+                                (
+                                )
+
+                            [skipOnError] => 1
+                            [enableClientValidation] => 1
+                            [isEmpty] => 
+                            [when] => 
+                            [whenClient] => 
+                            [_events:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_eventWildcards:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_behaviors:yii\base\Component:private] => 
+                        )
+
+                    [1] => yii\validators\NumberValidator Object
+                        (
+                            [integerOnly] => 1
+                            [max] => 
+                            [min] => 
+                            [tooBig] => 
+                            [tooSmall] => 
+                            [integerPattern] => /^\s*[+-]?\d+\s*$/
+                            [numberPattern] => /^\s*[-+]?[0-9]*\.?[0-9]+([eE][-+]?[0-9]+)?\s*$/
+                            [attributes] => Array
+                                (
+                                    [0] => user_id
+                                    [1] => status
+                                )
+
+                            [message] => {attribute} must be an integer.
+                            [on] => Array
+                                (
+                                )
+
+                            [except] => Array
+                                (
+                                )
+
+                            [skipOnError] => 1
+                            [skipOnEmpty] => 1
+                            [enableClientValidation] => 1
+                            [isEmpty] => 
+                            [when] => 
+                            [whenClient] => 
+                            [_events:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_eventWildcards:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_behaviors:yii\base\Component:private] => 
+                        )
+
+                    [2] => yii\validators\FileValidator Object
+                        (
+                            [extensions] => Array
+                                (
+                                    [0] => png
+                                    [1] => jpg
+                                    [2] => jpeg
+                                )
+
+                            [checkExtensionByMimeType] => 1
+                            [mimeTypes] => Array
+                                (
+                                )
+
+                            [minSize] => 
+                            [maxSize] => 
+                            [maxFiles] => 1
+                            [minFiles] => 0
+                            [message] => File upload failed.
+                            [uploadRequired] => Please upload a file.
+                            [tooBig] => The file "{file}" is too big. Its size cannot exceed {formattedLimit}.
+                            [tooSmall] => The file "{file}" is too small. Its size cannot be smaller than {formattedLimit}.
+                            [tooMany] => You can upload at most {limit, number} {limit, plural, one{file} other{files}}.
+                            [tooFew] => You should upload at least {limit, number} {limit, plural, one{file} other{files}}.
+                            [wrongExtension] => Only files with these extensions are allowed: {extensions}.
+                            [wrongMimeType] => Only files with these MIME types are allowed: {mimeTypes}.
+                            [attributes] => Array
+                                (
+                                    [0] => name
+                                )
+
+                            [on] => Array
+                                (
+                                )
+
+                            [except] => Array
+                                (
+                                )
+
+                            [skipOnError] => 1
+                            [skipOnEmpty] => 1
+                            [enableClientValidation] => 1
+                            [isEmpty] => 
+                            [when] => 
+                            [whenClient] => 
+                            [_events:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_eventWildcards:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_behaviors:yii\base\Component:private] => 
+                        )
+
+                )
+
+        )
+
+    [_scenario:yii\base\Model:private] => default
+    [_events:yii\base\Component:private] => Array
+        (
+        )
+
+    [_eventWildcards:yii\base\Component:private] => Array
+        (
+        )
+
+    [_behaviors:yii\base\Component:private] => Array
+        (
+        )
+
+)
+
+[20-Apr-2018 21:02:59 UTC] app\models\ImageUpload Object
+(
+    [photoNewName] => 9dabc3d8c0393ed85896cedebda8bab1.jpg
+    [name] => yii\web\UploadedFile Object
+        (
+            [name] => 002.jpg
+            [tempName] => /tmp/phpaIaoOH
+            [type] => image/jpeg
+            [size] => 366372
+            [error] => 0
+        )
+
+    [_attributes:yii\db\BaseActiveRecord:private] => Array
+        (
+            [user_id] => 2
+            [status] => 0
+        )
+
+    [_oldAttributes:yii\db\BaseActiveRecord:private] => 
+    [_related:yii\db\BaseActiveRecord:private] => Array
+        (
+        )
+
+    [_relationsDependencies:yii\db\BaseActiveRecord:private] => Array
+        (
+        )
+
+    [_errors:yii\base\Model:private] => Array
+        (
+        )
+
+    [_validators:yii\base\Model:private] => ArrayObject Object
+        (
+            [storage:ArrayObject:private] => Array
+                (
+                    [0] => yii\validators\RequiredValidator Object
+                        (
+                            [skipOnEmpty] => 
+                            [requiredValue] => 
+                            [strict] => 
+                            [message] => {attribute} cannot be blank.
+                            [attributes] => Array
+                                (
+                                    [0] => name
+                                    [1] => user_id
+                                    [2] => status
+                                )
+
+                            [on] => Array
+                                (
+                                )
+
+                            [except] => Array
+                                (
+                                )
+
+                            [skipOnError] => 1
+                            [enableClientValidation] => 1
+                            [isEmpty] => 
+                            [when] => 
+                            [whenClient] => 
+                            [_events:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_eventWildcards:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_behaviors:yii\base\Component:private] => 
+                        )
+
+                    [1] => yii\validators\NumberValidator Object
+                        (
+                            [integerOnly] => 1
+                            [max] => 
+                            [min] => 
+                            [tooBig] => 
+                            [tooSmall] => 
+                            [integerPattern] => /^\s*[+-]?\d+\s*$/
+                            [numberPattern] => /^\s*[-+]?[0-9]*\.?[0-9]+([eE][-+]?[0-9]+)?\s*$/
+                            [attributes] => Array
+                                (
+                                    [0] => user_id
+                                    [1] => status
+                                )
+
+                            [message] => {attribute} must be an integer.
+                            [on] => Array
+                                (
+                                )
+
+                            [except] => Array
+                                (
+                                )
+
+                            [skipOnError] => 1
+                            [skipOnEmpty] => 1
+                            [enableClientValidation] => 1
+                            [isEmpty] => 
+                            [when] => 
+                            [whenClient] => 
+                            [_events:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_eventWildcards:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_behaviors:yii\base\Component:private] => 
+                        )
+
+                    [2] => yii\validators\FileValidator Object
+                        (
+                            [extensions] => Array
+                                (
+                                    [0] => png
+                                    [1] => jpg
+                                    [2] => jpeg
+                                )
+
+                            [checkExtensionByMimeType] => 1
+                            [mimeTypes] => Array
+                                (
+                                )
+
+                            [minSize] => 
+                            [maxSize] => 
+                            [maxFiles] => 1
+                            [minFiles] => 0
+                            [message] => File upload failed.
+                            [uploadRequired] => Please upload a file.
+                            [tooBig] => The file "{file}" is too big. Its size cannot exceed {formattedLimit}.
+                            [tooSmall] => The file "{file}" is too small. Its size cannot be smaller than {formattedLimit}.
+                            [tooMany] => You can upload at most {limit, number} {limit, plural, one{file} other{files}}.
+                            [tooFew] => You should upload at least {limit, number} {limit, plural, one{file} other{files}}.
+                            [wrongExtension] => Only files with these extensions are allowed: {extensions}.
+                            [wrongMimeType] => Only files with these MIME types are allowed: {mimeTypes}.
+                            [attributes] => Array
+                                (
+                                    [0] => name
+                                )
+
+                            [on] => Array
+                                (
+                                )
+
+                            [except] => Array
+                                (
+                                )
+
+                            [skipOnError] => 1
+                            [skipOnEmpty] => 1
+                            [enableClientValidation] => 1
+                            [isEmpty] => 
+                            [when] => 
+                            [whenClient] => 
+                            [_events:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_eventWildcards:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_behaviors:yii\base\Component:private] => 
+                        )
+
+                )
+
+        )
+
+    [_scenario:yii\base\Model:private] => default
+    [_events:yii\base\Component:private] => Array
+        (
+        )
+
+    [_eventWildcards:yii\base\Component:private] => Array
+        (
+        )
+
+    [_behaviors:yii\base\Component:private] => Array
+        (
+        )
+
+)
+
+[20-Apr-2018 21:08:03 UTC] app\models\ImageUpload Object
+(
+    [photoNewName] => 79437d69d12402f153b0b6e33725be59.jpg
+    [name] => yii\web\UploadedFile Object
+        (
+            [name] => 002.jpg
+            [tempName] => /tmp/phpkuRZI6
+            [type] => image/jpeg
+            [size] => 366372
+            [error] => 0
+        )
+
+    [_attributes:yii\db\BaseActiveRecord:private] => Array
+        (
+            [user_id] => 2
+            [status] => 0
+        )
+
+    [_oldAttributes:yii\db\BaseActiveRecord:private] => 
+    [_related:yii\db\BaseActiveRecord:private] => Array
+        (
+        )
+
+    [_relationsDependencies:yii\db\BaseActiveRecord:private] => Array
+        (
+        )
+
+    [_errors:yii\base\Model:private] => Array
+        (
+        )
+
+    [_validators:yii\base\Model:private] => ArrayObject Object
+        (
+            [storage:ArrayObject:private] => Array
+                (
+                    [0] => yii\validators\RequiredValidator Object
+                        (
+                            [skipOnEmpty] => 
+                            [requiredValue] => 
+                            [strict] => 
+                            [message] => {attribute} cannot be blank.
+                            [attributes] => Array
+                                (
+                                    [0] => name
+                                    [1] => user_id
+                                    [2] => status
+                                )
+
+                            [on] => Array
+                                (
+                                )
+
+                            [except] => Array
+                                (
+                                )
+
+                            [skipOnError] => 1
+                            [enableClientValidation] => 1
+                            [isEmpty] => 
+                            [when] => 
+                            [whenClient] => 
+                            [_events:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_eventWildcards:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_behaviors:yii\base\Component:private] => 
+                        )
+
+                    [1] => yii\validators\NumberValidator Object
+                        (
+                            [integerOnly] => 1
+                            [max] => 
+                            [min] => 
+                            [tooBig] => 
+                            [tooSmall] => 
+                            [integerPattern] => /^\s*[+-]?\d+\s*$/
+                            [numberPattern] => /^\s*[-+]?[0-9]*\.?[0-9]+([eE][-+]?[0-9]+)?\s*$/
+                            [attributes] => Array
+                                (
+                                    [0] => user_id
+                                    [1] => status
+                                )
+
+                            [message] => {attribute} must be an integer.
+                            [on] => Array
+                                (
+                                )
+
+                            [except] => Array
+                                (
+                                )
+
+                            [skipOnError] => 1
+                            [skipOnEmpty] => 1
+                            [enableClientValidation] => 1
+                            [isEmpty] => 
+                            [when] => 
+                            [whenClient] => 
+                            [_events:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_eventWildcards:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_behaviors:yii\base\Component:private] => 
+                        )
+
+                    [2] => yii\validators\FileValidator Object
+                        (
+                            [extensions] => Array
+                                (
+                                    [0] => png
+                                    [1] => jpg
+                                    [2] => jpeg
+                                )
+
+                            [checkExtensionByMimeType] => 1
+                            [mimeTypes] => Array
+                                (
+                                )
+
+                            [minSize] => 
+                            [maxSize] => 
+                            [maxFiles] => 1
+                            [minFiles] => 0
+                            [message] => File upload failed.
+                            [uploadRequired] => Please upload a file.
+                            [tooBig] => The file "{file}" is too big. Its size cannot exceed {formattedLimit}.
+                            [tooSmall] => The file "{file}" is too small. Its size cannot be smaller than {formattedLimit}.
+                            [tooMany] => You can upload at most {limit, number} {limit, plural, one{file} other{files}}.
+                            [tooFew] => You should upload at least {limit, number} {limit, plural, one{file} other{files}}.
+                            [wrongExtension] => Only files with these extensions are allowed: {extensions}.
+                            [wrongMimeType] => Only files with these MIME types are allowed: {mimeTypes}.
+                            [attributes] => Array
+                                (
+                                    [0] => name
+                                )
+
+                            [on] => Array
+                                (
+                                )
+
+                            [except] => Array
+                                (
+                                )
+
+                            [skipOnError] => 1
+                            [skipOnEmpty] => 1
+                            [enableClientValidation] => 1
+                            [isEmpty] => 
+                            [when] => 
+                            [whenClient] => 
+                            [_events:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_eventWildcards:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_behaviors:yii\base\Component:private] => 
+                        )
+
+                )
+
+        )
+
+    [_scenario:yii\base\Model:private] => default
+    [_events:yii\base\Component:private] => Array
+        (
+        )
+
+    [_eventWildcards:yii\base\Component:private] => Array
+        (
+        )
+
+    [_behaviors:yii\base\Component:private] => Array
+        (
+        )
+
+)
+
+[20-Apr-2018 21:09:58 UTC] app\models\ImageUpload Object
+(
+    [photoNewName] => 0ec690264ae82267af091e64b5219196.jpg
+    [name] => yii\web\UploadedFile Object
+        (
+            [name] => 002.jpg
+            [tempName] => /tmp/phpnJ8ZKX
+            [type] => image/jpeg
+            [size] => 366372
+            [error] => 0
+        )
+
+    [_attributes:yii\db\BaseActiveRecord:private] => Array
+        (
+            [user_id] => 2
+            [status] => 0
+        )
+
+    [_oldAttributes:yii\db\BaseActiveRecord:private] => 
+    [_related:yii\db\BaseActiveRecord:private] => Array
+        (
+        )
+
+    [_relationsDependencies:yii\db\BaseActiveRecord:private] => Array
+        (
+        )
+
+    [_errors:yii\base\Model:private] => Array
+        (
+        )
+
+    [_validators:yii\base\Model:private] => ArrayObject Object
+        (
+            [storage:ArrayObject:private] => Array
+                (
+                    [0] => yii\validators\RequiredValidator Object
+                        (
+                            [skipOnEmpty] => 
+                            [requiredValue] => 
+                            [strict] => 
+                            [message] => {attribute} cannot be blank.
+                            [attributes] => Array
+                                (
+                                    [0] => name
+                                    [1] => user_id
+                                    [2] => status
+                                )
+
+                            [on] => Array
+                                (
+                                )
+
+                            [except] => Array
+                                (
+                                )
+
+                            [skipOnError] => 1
+                            [enableClientValidation] => 1
+                            [isEmpty] => 
+                            [when] => 
+                            [whenClient] => 
+                            [_events:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_eventWildcards:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_behaviors:yii\base\Component:private] => 
+                        )
+
+                    [1] => yii\validators\NumberValidator Object
+                        (
+                            [integerOnly] => 1
+                            [max] => 
+                            [min] => 
+                            [tooBig] => 
+                            [tooSmall] => 
+                            [integerPattern] => /^\s*[+-]?\d+\s*$/
+                            [numberPattern] => /^\s*[-+]?[0-9]*\.?[0-9]+([eE][-+]?[0-9]+)?\s*$/
+                            [attributes] => Array
+                                (
+                                    [0] => user_id
+                                    [1] => status
+                                )
+
+                            [message] => {attribute} must be an integer.
+                            [on] => Array
+                                (
+                                )
+
+                            [except] => Array
+                                (
+                                )
+
+                            [skipOnError] => 1
+                            [skipOnEmpty] => 1
+                            [enableClientValidation] => 1
+                            [isEmpty] => 
+                            [when] => 
+                            [whenClient] => 
+                            [_events:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_eventWildcards:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_behaviors:yii\base\Component:private] => 
+                        )
+
+                    [2] => yii\validators\FileValidator Object
+                        (
+                            [extensions] => Array
+                                (
+                                    [0] => png
+                                    [1] => jpg
+                                    [2] => jpeg
+                                )
+
+                            [checkExtensionByMimeType] => 1
+                            [mimeTypes] => Array
+                                (
+                                )
+
+                            [minSize] => 
+                            [maxSize] => 
+                            [maxFiles] => 1
+                            [minFiles] => 0
+                            [message] => File upload failed.
+                            [uploadRequired] => Please upload a file.
+                            [tooBig] => The file "{file}" is too big. Its size cannot exceed {formattedLimit}.
+                            [tooSmall] => The file "{file}" is too small. Its size cannot be smaller than {formattedLimit}.
+                            [tooMany] => You can upload at most {limit, number} {limit, plural, one{file} other{files}}.
+                            [tooFew] => You should upload at least {limit, number} {limit, plural, one{file} other{files}}.
+                            [wrongExtension] => Only files with these extensions are allowed: {extensions}.
+                            [wrongMimeType] => Only files with these MIME types are allowed: {mimeTypes}.
+                            [attributes] => Array
+                                (
+                                    [0] => name
+                                )
+
+                            [on] => Array
+                                (
+                                )
+
+                            [except] => Array
+                                (
+                                )
+
+                            [skipOnError] => 1
+                            [skipOnEmpty] => 1
+                            [enableClientValidation] => 1
+                            [isEmpty] => 
+                            [when] => 
+                            [whenClient] => 
+                            [_events:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_eventWildcards:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_behaviors:yii\base\Component:private] => 
+                        )
+
+                )
+
+        )
+
+    [_scenario:yii\base\Model:private] => default
+    [_events:yii\base\Component:private] => Array
+        (
+        )
+
+    [_eventWildcards:yii\base\Component:private] => Array
+        (
+        )
+
+    [_behaviors:yii\base\Component:private] => Array
+        (
+        )
+
+)
+
+[20-Apr-2018 21:13:31 UTC] app\models\ImageUpload Object
+(
+    [photoNewName] => a4055409b97ddeedc0543479727636ae.jpg
+    [name] => yii\web\UploadedFile Object
+        (
+            [name] => 002.jpg
+            [tempName] => /tmp/phpDs1xTi
+            [type] => image/jpeg
+            [size] => 366372
+            [error] => 0
+        )
+
+    [_attributes:yii\db\BaseActiveRecord:private] => Array
+        (
+            [user_id] => 2
+            [status] => 0
+        )
+
+    [_oldAttributes:yii\db\BaseActiveRecord:private] => 
+    [_related:yii\db\BaseActiveRecord:private] => Array
+        (
+        )
+
+    [_relationsDependencies:yii\db\BaseActiveRecord:private] => Array
+        (
+        )
+
+    [_errors:yii\base\Model:private] => Array
+        (
+        )
+
+    [_validators:yii\base\Model:private] => ArrayObject Object
+        (
+            [storage:ArrayObject:private] => Array
+                (
+                    [0] => yii\validators\RequiredValidator Object
+                        (
+                            [skipOnEmpty] => 
+                            [requiredValue] => 
+                            [strict] => 
+                            [message] => {attribute} cannot be blank.
+                            [attributes] => Array
+                                (
+                                    [0] => name
+                                    [1] => user_id
+                                    [2] => status
+                                )
+
+                            [on] => Array
+                                (
+                                )
+
+                            [except] => Array
+                                (
+                                )
+
+                            [skipOnError] => 1
+                            [enableClientValidation] => 1
+                            [isEmpty] => 
+                            [when] => 
+                            [whenClient] => 
+                            [_events:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_eventWildcards:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_behaviors:yii\base\Component:private] => 
+                        )
+
+                    [1] => yii\validators\NumberValidator Object
+                        (
+                            [integerOnly] => 1
+                            [max] => 
+                            [min] => 
+                            [tooBig] => 
+                            [tooSmall] => 
+                            [integerPattern] => /^\s*[+-]?\d+\s*$/
+                            [numberPattern] => /^\s*[-+]?[0-9]*\.?[0-9]+([eE][-+]?[0-9]+)?\s*$/
+                            [attributes] => Array
+                                (
+                                    [0] => user_id
+                                    [1] => status
+                                )
+
+                            [message] => {attribute} must be an integer.
+                            [on] => Array
+                                (
+                                )
+
+                            [except] => Array
+                                (
+                                )
+
+                            [skipOnError] => 1
+                            [skipOnEmpty] => 1
+                            [enableClientValidation] => 1
+                            [isEmpty] => 
+                            [when] => 
+                            [whenClient] => 
+                            [_events:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_eventWildcards:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_behaviors:yii\base\Component:private] => 
+                        )
+
+                    [2] => yii\validators\FileValidator Object
+                        (
+                            [extensions] => Array
+                                (
+                                    [0] => png
+                                    [1] => jpg
+                                    [2] => jpeg
+                                )
+
+                            [checkExtensionByMimeType] => 1
+                            [mimeTypes] => Array
+                                (
+                                )
+
+                            [minSize] => 
+                            [maxSize] => 
+                            [maxFiles] => 1
+                            [minFiles] => 0
+                            [message] => File upload failed.
+                            [uploadRequired] => Please upload a file.
+                            [tooBig] => The file "{file}" is too big. Its size cannot exceed {formattedLimit}.
+                            [tooSmall] => The file "{file}" is too small. Its size cannot be smaller than {formattedLimit}.
+                            [tooMany] => You can upload at most {limit, number} {limit, plural, one{file} other{files}}.
+                            [tooFew] => You should upload at least {limit, number} {limit, plural, one{file} other{files}}.
+                            [wrongExtension] => Only files with these extensions are allowed: {extensions}.
+                            [wrongMimeType] => Only files with these MIME types are allowed: {mimeTypes}.
+                            [attributes] => Array
+                                (
+                                    [0] => name
+                                )
+
+                            [on] => Array
+                                (
+                                )
+
+                            [except] => Array
+                                (
+                                )
+
+                            [skipOnError] => 1
+                            [skipOnEmpty] => 1
+                            [enableClientValidation] => 1
+                            [isEmpty] => 
+                            [when] => 
+                            [whenClient] => 
+                            [_events:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_eventWildcards:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_behaviors:yii\base\Component:private] => 
+                        )
+
+                )
+
+        )
+
+    [_scenario:yii\base\Model:private] => default
+    [_events:yii\base\Component:private] => Array
+        (
+        )
+
+    [_eventWildcards:yii\base\Component:private] => Array
+        (
+        )
+
+    [_behaviors:yii\base\Component:private] => Array
+        (
+        )
+
+)
+
+[20-Apr-2018 21:14:19 UTC] app\models\ImageUpload Object
+(
+    [photoNewName] => 4316a285c379247234f99ae2b3cb8e2e.jpg
+    [_attributes:yii\db\BaseActiveRecord:private] => Array
+        (
+            [name] => yii\web\UploadedFile Object
+                (
+                    [name] => 002.jpg
+                    [tempName] => /tmp/phpAPt2bn
+                    [type] => image/jpeg
+                    [size] => 366372
+                    [error] => 0
+                )
+
+            [user_id] => 2
+            [status] => 0
+        )
+
+    [_oldAttributes:yii\db\BaseActiveRecord:private] => 
+    [_related:yii\db\BaseActiveRecord:private] => Array
+        (
+        )
+
+    [_relationsDependencies:yii\db\BaseActiveRecord:private] => Array
+        (
+        )
+
+    [_errors:yii\base\Model:private] => Array
+        (
+        )
+
+    [_validators:yii\base\Model:private] => ArrayObject Object
+        (
+            [storage:ArrayObject:private] => Array
+                (
+                    [0] => yii\validators\RequiredValidator Object
+                        (
+                            [skipOnEmpty] => 
+                            [requiredValue] => 
+                            [strict] => 
+                            [message] => {attribute} cannot be blank.
+                            [attributes] => Array
+                                (
+                                    [0] => name
+                                    [1] => user_id
+                                    [2] => status
+                                )
+
+                            [on] => Array
+                                (
+                                )
+
+                            [except] => Array
+                                (
+                                )
+
+                            [skipOnError] => 1
+                            [enableClientValidation] => 1
+                            [isEmpty] => 
+                            [when] => 
+                            [whenClient] => 
+                            [_events:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_eventWildcards:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_behaviors:yii\base\Component:private] => 
+                        )
+
+                    [1] => yii\validators\NumberValidator Object
+                        (
+                            [integerOnly] => 1
+                            [max] => 
+                            [min] => 
+                            [tooBig] => 
+                            [tooSmall] => 
+                            [integerPattern] => /^\s*[+-]?\d+\s*$/
+                            [numberPattern] => /^\s*[-+]?[0-9]*\.?[0-9]+([eE][-+]?[0-9]+)?\s*$/
+                            [attributes] => Array
+                                (
+                                    [0] => user_id
+                                    [1] => status
+                                )
+
+                            [message] => {attribute} must be an integer.
+                            [on] => Array
+                                (
+                                )
+
+                            [except] => Array
+                                (
+                                )
+
+                            [skipOnError] => 1
+                            [skipOnEmpty] => 1
+                            [enableClientValidation] => 1
+                            [isEmpty] => 
+                            [when] => 
+                            [whenClient] => 
+                            [_events:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_eventWildcards:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_behaviors:yii\base\Component:private] => 
+                        )
+
+                    [2] => yii\validators\FileValidator Object
+                        (
+                            [extensions] => Array
+                                (
+                                    [0] => png
+                                    [1] => jpg
+                                    [2] => jpeg
+                                )
+
+                            [checkExtensionByMimeType] => 1
+                            [mimeTypes] => Array
+                                (
+                                )
+
+                            [minSize] => 
+                            [maxSize] => 
+                            [maxFiles] => 1
+                            [minFiles] => 0
+                            [message] => File upload failed.
+                            [uploadRequired] => Please upload a file.
+                            [tooBig] => The file "{file}" is too big. Its size cannot exceed {formattedLimit}.
+                            [tooSmall] => The file "{file}" is too small. Its size cannot be smaller than {formattedLimit}.
+                            [tooMany] => You can upload at most {limit, number} {limit, plural, one{file} other{files}}.
+                            [tooFew] => You should upload at least {limit, number} {limit, plural, one{file} other{files}}.
+                            [wrongExtension] => Only files with these extensions are allowed: {extensions}.
+                            [wrongMimeType] => Only files with these MIME types are allowed: {mimeTypes}.
+                            [attributes] => Array
+                                (
+                                    [0] => name
+                                )
+
+                            [on] => Array
+                                (
+                                )
+
+                            [except] => Array
+                                (
+                                )
+
+                            [skipOnError] => 1
+                            [skipOnEmpty] => 1
+                            [enableClientValidation] => 1
+                            [isEmpty] => 
+                            [when] => 
+                            [whenClient] => 
+                            [_events:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_eventWildcards:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_behaviors:yii\base\Component:private] => 
+                        )
+
+                )
+
+        )
+
+    [_scenario:yii\base\Model:private] => default
+    [_events:yii\base\Component:private] => Array
+        (
+        )
+
+    [_eventWildcards:yii\base\Component:private] => Array
+        (
+        )
+
+    [_behaviors:yii\base\Component:private] => Array
+        (
+        )
+
+)
+
+[20-Apr-2018 21:14:51 UTC] app\models\ImageUpload Object
+(
+    [photoNewName] => a4bc0ced02f2df7ab4507e56b555c6cd.jpg
+    [_attributes:yii\db\BaseActiveRecord:private] => Array
+        (
+            [name] => yii\web\UploadedFile Object
+                (
+                    [name] => 002.jpg
+                    [tempName] => /tmp/phpY94ifU
+                    [type] => image/jpeg
+                    [size] => 366372
+                    [error] => 0
+                )
+
+            [user_id] => 2
+            [status] => 0
+        )
+
+    [_oldAttributes:yii\db\BaseActiveRecord:private] => 
+    [_related:yii\db\BaseActiveRecord:private] => Array
+        (
+        )
+
+    [_relationsDependencies:yii\db\BaseActiveRecord:private] => Array
+        (
+        )
+
+    [_errors:yii\base\Model:private] => Array
+        (
+        )
+
+    [_validators:yii\base\Model:private] => ArrayObject Object
+        (
+            [storage:ArrayObject:private] => Array
+                (
+                    [0] => yii\validators\RequiredValidator Object
+                        (
+                            [skipOnEmpty] => 
+                            [requiredValue] => 
+                            [strict] => 
+                            [message] => {attribute} cannot be blank.
+                            [attributes] => Array
+                                (
+                                    [0] => name
+                                    [1] => user_id
+                                    [2] => status
+                                )
+
+                            [on] => Array
+                                (
+                                )
+
+                            [except] => Array
+                                (
+                                )
+
+                            [skipOnError] => 1
+                            [enableClientValidation] => 1
+                            [isEmpty] => 
+                            [when] => 
+                            [whenClient] => 
+                            [_events:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_eventWildcards:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_behaviors:yii\base\Component:private] => 
+                        )
+
+                    [1] => yii\validators\NumberValidator Object
+                        (
+                            [integerOnly] => 1
+                            [max] => 
+                            [min] => 
+                            [tooBig] => 
+                            [tooSmall] => 
+                            [integerPattern] => /^\s*[+-]?\d+\s*$/
+                            [numberPattern] => /^\s*[-+]?[0-9]*\.?[0-9]+([eE][-+]?[0-9]+)?\s*$/
+                            [attributes] => Array
+                                (
+                                    [0] => user_id
+                                    [1] => status
+                                )
+
+                            [message] => {attribute} must be an integer.
+                            [on] => Array
+                                (
+                                )
+
+                            [except] => Array
+                                (
+                                )
+
+                            [skipOnError] => 1
+                            [skipOnEmpty] => 1
+                            [enableClientValidation] => 1
+                            [isEmpty] => 
+                            [when] => 
+                            [whenClient] => 
+                            [_events:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_eventWildcards:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_behaviors:yii\base\Component:private] => 
+                        )
+
+                    [2] => yii\validators\FileValidator Object
+                        (
+                            [extensions] => Array
+                                (
+                                    [0] => png
+                                    [1] => jpg
+                                    [2] => jpeg
+                                )
+
+                            [checkExtensionByMimeType] => 1
+                            [mimeTypes] => Array
+                                (
+                                )
+
+                            [minSize] => 
+                            [maxSize] => 
+                            [maxFiles] => 1
+                            [minFiles] => 0
+                            [message] => File upload failed.
+                            [uploadRequired] => Please upload a file.
+                            [tooBig] => The file "{file}" is too big. Its size cannot exceed {formattedLimit}.
+                            [tooSmall] => The file "{file}" is too small. Its size cannot be smaller than {formattedLimit}.
+                            [tooMany] => You can upload at most {limit, number} {limit, plural, one{file} other{files}}.
+                            [tooFew] => You should upload at least {limit, number} {limit, plural, one{file} other{files}}.
+                            [wrongExtension] => Only files with these extensions are allowed: {extensions}.
+                            [wrongMimeType] => Only files with these MIME types are allowed: {mimeTypes}.
+                            [attributes] => Array
+                                (
+                                    [0] => name
+                                )
+
+                            [on] => Array
+                                (
+                                )
+
+                            [except] => Array
+                                (
+                                )
+
+                            [skipOnError] => 1
+                            [skipOnEmpty] => 1
+                            [enableClientValidation] => 1
+                            [isEmpty] => 
+                            [when] => 
+                            [whenClient] => 
+                            [_events:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_eventWildcards:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_behaviors:yii\base\Component:private] => 
+                        )
+
+                )
+
+        )
+
+    [_scenario:yii\base\Model:private] => default
+    [_events:yii\base\Component:private] => Array
+        (
+        )
+
+    [_eventWildcards:yii\base\Component:private] => Array
+        (
+        )
+
+    [_behaviors:yii\base\Component:private] => Array
+        (
+        )
+
+)
+
+[20-Apr-2018 22:17:29 UTC] app\models\ImageUpload Object
+(
+    [photoNewName] => 56fb70651471dbef3023f653906b7dc0.jpg
+    [_attributes:yii\db\BaseActiveRecord:private] => Array
+        (
+            [name] => yii\web\UploadedFile Object
+                (
+                    [name] => 002.jpg
+                    [tempName] => /tmp/phpp0uBrd
+                    [type] => image/jpeg
+                    [size] => 366372
+                    [error] => 0
+                )
+
+            [user_id] => 2
+            [status] => 0
+        )
+
+    [_oldAttributes:yii\db\BaseActiveRecord:private] => 
+    [_related:yii\db\BaseActiveRecord:private] => Array
+        (
+        )
+
+    [_relationsDependencies:yii\db\BaseActiveRecord:private] => Array
+        (
+        )
+
+    [_errors:yii\base\Model:private] => Array
+        (
+        )
+
+    [_validators:yii\base\Model:private] => ArrayObject Object
+        (
+            [storage:ArrayObject:private] => Array
+                (
+                    [0] => yii\validators\RequiredValidator Object
+                        (
+                            [skipOnEmpty] => 
+                            [requiredValue] => 
+                            [strict] => 
+                            [message] => {attribute} cannot be blank.
+                            [attributes] => Array
+                                (
+                                    [0] => name
+                                    [1] => user_id
+                                    [2] => status
+                                )
+
+                            [on] => Array
+                                (
+                                )
+
+                            [except] => Array
+                                (
+                                )
+
+                            [skipOnError] => 1
+                            [enableClientValidation] => 1
+                            [isEmpty] => 
+                            [when] => 
+                            [whenClient] => 
+                            [_events:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_eventWildcards:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_behaviors:yii\base\Component:private] => 
+                        )
+
+                    [1] => yii\validators\NumberValidator Object
+                        (
+                            [integerOnly] => 1
+                            [max] => 
+                            [min] => 
+                            [tooBig] => 
+                            [tooSmall] => 
+                            [integerPattern] => /^\s*[+-]?\d+\s*$/
+                            [numberPattern] => /^\s*[-+]?[0-9]*\.?[0-9]+([eE][-+]?[0-9]+)?\s*$/
+                            [attributes] => Array
+                                (
+                                    [0] => user_id
+                                    [1] => status
+                                )
+
+                            [message] => {attribute} must be an integer.
+                            [on] => Array
+                                (
+                                )
+
+                            [except] => Array
+                                (
+                                )
+
+                            [skipOnError] => 1
+                            [skipOnEmpty] => 1
+                            [enableClientValidation] => 1
+                            [isEmpty] => 
+                            [when] => 
+                            [whenClient] => 
+                            [_events:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_eventWildcards:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_behaviors:yii\base\Component:private] => 
+                        )
+
+                    [2] => yii\validators\FileValidator Object
+                        (
+                            [extensions] => Array
+                                (
+                                    [0] => png
+                                    [1] => jpg
+                                    [2] => jpeg
+                                )
+
+                            [checkExtensionByMimeType] => 1
+                            [mimeTypes] => Array
+                                (
+                                )
+
+                            [minSize] => 
+                            [maxSize] => 
+                            [maxFiles] => 1
+                            [minFiles] => 0
+                            [message] => File upload failed.
+                            [uploadRequired] => Please upload a file.
+                            [tooBig] => The file "{file}" is too big. Its size cannot exceed {formattedLimit}.
+                            [tooSmall] => The file "{file}" is too small. Its size cannot be smaller than {formattedLimit}.
+                            [tooMany] => You can upload at most {limit, number} {limit, plural, one{file} other{files}}.
+                            [tooFew] => You should upload at least {limit, number} {limit, plural, one{file} other{files}}.
+                            [wrongExtension] => Only files with these extensions are allowed: {extensions}.
+                            [wrongMimeType] => Only files with these MIME types are allowed: {mimeTypes}.
+                            [attributes] => Array
+                                (
+                                    [0] => name
+                                )
+
+                            [on] => Array
+                                (
+                                )
+
+                            [except] => Array
+                                (
+                                )
+
+                            [skipOnError] => 1
+                            [skipOnEmpty] => 1
+                            [enableClientValidation] => 1
+                            [isEmpty] => 
+                            [when] => 
+                            [whenClient] => 
+                            [_events:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_eventWildcards:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_behaviors:yii\base\Component:private] => 
+                        )
+
+                )
+
+        )
+
+    [_scenario:yii\base\Model:private] => default
+    [_events:yii\base\Component:private] => Array
+        (
+        )
+
+    [_eventWildcards:yii\base\Component:private] => Array
+        (
+        )
+
+    [_behaviors:yii\base\Component:private] => Array
+        (
+        )
+
+)
+
+[20-Apr-2018 22:18:07 UTC] app\models\ImageUpload Object
+(
+    [photoNewName] => a3fa9e28b8233b0a17151a211c5d4036.jpg
+    [_attributes:yii\db\BaseActiveRecord:private] => Array
+        (
+            [name] => yii\web\UploadedFile Object
+                (
+                    [name] => 002.jpg
+                    [tempName] => /tmp/phpJvDJCQ
+                    [type] => image/jpeg
+                    [size] => 366372
+                    [error] => 0
+                )
+
+            [user_id] => 2
+            [status] => 0
+        )
+
+    [_oldAttributes:yii\db\BaseActiveRecord:private] => 
+    [_related:yii\db\BaseActiveRecord:private] => Array
+        (
+        )
+
+    [_relationsDependencies:yii\db\BaseActiveRecord:private] => Array
+        (
+        )
+
+    [_errors:yii\base\Model:private] => Array
+        (
+        )
+
+    [_validators:yii\base\Model:private] => ArrayObject Object
+        (
+            [storage:ArrayObject:private] => Array
+                (
+                    [0] => yii\validators\RequiredValidator Object
+                        (
+                            [skipOnEmpty] => 
+                            [requiredValue] => 
+                            [strict] => 
+                            [message] => {attribute} cannot be blank.
+                            [attributes] => Array
+                                (
+                                    [0] => name
+                                    [1] => user_id
+                                    [2] => status
+                                )
+
+                            [on] => Array
+                                (
+                                )
+
+                            [except] => Array
+                                (
+                                )
+
+                            [skipOnError] => 1
+                            [enableClientValidation] => 1
+                            [isEmpty] => 
+                            [when] => 
+                            [whenClient] => 
+                            [_events:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_eventWildcards:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_behaviors:yii\base\Component:private] => 
+                        )
+
+                    [1] => yii\validators\NumberValidator Object
+                        (
+                            [integerOnly] => 1
+                            [max] => 
+                            [min] => 
+                            [tooBig] => 
+                            [tooSmall] => 
+                            [integerPattern] => /^\s*[+-]?\d+\s*$/
+                            [numberPattern] => /^\s*[-+]?[0-9]*\.?[0-9]+([eE][-+]?[0-9]+)?\s*$/
+                            [attributes] => Array
+                                (
+                                    [0] => user_id
+                                    [1] => status
+                                )
+
+                            [message] => {attribute} must be an integer.
+                            [on] => Array
+                                (
+                                )
+
+                            [except] => Array
+                                (
+                                )
+
+                            [skipOnError] => 1
+                            [skipOnEmpty] => 1
+                            [enableClientValidation] => 1
+                            [isEmpty] => 
+                            [when] => 
+                            [whenClient] => 
+                            [_events:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_eventWildcards:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_behaviors:yii\base\Component:private] => 
+                        )
+
+                    [2] => yii\validators\FileValidator Object
+                        (
+                            [extensions] => Array
+                                (
+                                    [0] => png
+                                    [1] => jpg
+                                    [2] => jpeg
+                                )
+
+                            [checkExtensionByMimeType] => 1
+                            [mimeTypes] => Array
+                                (
+                                )
+
+                            [minSize] => 
+                            [maxSize] => 
+                            [maxFiles] => 1
+                            [minFiles] => 0
+                            [message] => File upload failed.
+                            [uploadRequired] => Please upload a file.
+                            [tooBig] => The file "{file}" is too big. Its size cannot exceed {formattedLimit}.
+                            [tooSmall] => The file "{file}" is too small. Its size cannot be smaller than {formattedLimit}.
+                            [tooMany] => You can upload at most {limit, number} {limit, plural, one{file} other{files}}.
+                            [tooFew] => You should upload at least {limit, number} {limit, plural, one{file} other{files}}.
+                            [wrongExtension] => Only files with these extensions are allowed: {extensions}.
+                            [wrongMimeType] => Only files with these MIME types are allowed: {mimeTypes}.
+                            [attributes] => Array
+                                (
+                                    [0] => name
+                                )
+
+                            [on] => Array
+                                (
+                                )
+
+                            [except] => Array
+                                (
+                                )
+
+                            [skipOnError] => 1
+                            [skipOnEmpty] => 1
+                            [enableClientValidation] => 1
+                            [isEmpty] => 
+                            [when] => 
+                            [whenClient] => 
+                            [_events:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_eventWildcards:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_behaviors:yii\base\Component:private] => 
+                        )
+
+                )
+
+        )
+
+    [_scenario:yii\base\Model:private] => default
+    [_events:yii\base\Component:private] => Array
+        (
+        )
+
+    [_eventWildcards:yii\base\Component:private] => Array
+        (
+        )
+
+    [_behaviors:yii\base\Component:private] => Array
+        (
+        )
+
+)
+
+[20-Apr-2018 22:29:00 UTC] app\models\ImageUpload Object
+(
+    [photoNewName] => 238445e001596f00ccbd24c476582530.jpg
+    [_attributes:yii\db\BaseActiveRecord:private] => Array
+        (
+            [name] => yii\web\UploadedFile Object
+                (
+                    [name] => 002.jpg
+                    [tempName] => /tmp/phpAn9KOl
+                    [type] => image/jpeg
+                    [size] => 366372
+                    [error] => 0
+                )
+
+            [user_id] => 2
+            [status] => 0
+        )
+
+    [_oldAttributes:yii\db\BaseActiveRecord:private] => 
+    [_related:yii\db\BaseActiveRecord:private] => Array
+        (
+        )
+
+    [_relationsDependencies:yii\db\BaseActiveRecord:private] => Array
+        (
+        )
+
+    [_errors:yii\base\Model:private] => Array
+        (
+        )
+
+    [_validators:yii\base\Model:private] => ArrayObject Object
+        (
+            [storage:ArrayObject:private] => Array
+                (
+                    [0] => yii\validators\RequiredValidator Object
+                        (
+                            [skipOnEmpty] => 
+                            [requiredValue] => 
+                            [strict] => 
+                            [message] => {attribute} cannot be blank.
+                            [attributes] => Array
+                                (
+                                    [0] => name
+                                    [1] => user_id
+                                    [2] => status
+                                )
+
+                            [on] => Array
+                                (
+                                )
+
+                            [except] => Array
+                                (
+                                )
+
+                            [skipOnError] => 1
+                            [enableClientValidation] => 1
+                            [isEmpty] => 
+                            [when] => 
+                            [whenClient] => 
+                            [_events:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_eventWildcards:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_behaviors:yii\base\Component:private] => 
+                        )
+
+                    [1] => yii\validators\NumberValidator Object
+                        (
+                            [integerOnly] => 1
+                            [max] => 
+                            [min] => 
+                            [tooBig] => 
+                            [tooSmall] => 
+                            [integerPattern] => /^\s*[+-]?\d+\s*$/
+                            [numberPattern] => /^\s*[-+]?[0-9]*\.?[0-9]+([eE][-+]?[0-9]+)?\s*$/
+                            [attributes] => Array
+                                (
+                                    [0] => user_id
+                                    [1] => status
+                                )
+
+                            [message] => {attribute} must be an integer.
+                            [on] => Array
+                                (
+                                )
+
+                            [except] => Array
+                                (
+                                )
+
+                            [skipOnError] => 1
+                            [skipOnEmpty] => 1
+                            [enableClientValidation] => 1
+                            [isEmpty] => 
+                            [when] => 
+                            [whenClient] => 
+                            [_events:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_eventWildcards:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_behaviors:yii\base\Component:private] => 
+                        )
+
+                    [2] => yii\validators\SafeValidator Object
+                        (
+                            [attributes] => Array
+                                (
+                                    [0] => name
+                                )
+
+                            [message] => 
+                            [on] => Array
+                                (
+                                )
+
+                            [except] => Array
+                                (
+                                )
+
+                            [skipOnError] => 1
+                            [skipOnEmpty] => 1
+                            [enableClientValidation] => 1
+                            [isEmpty] => 
+                            [when] => 
+                            [whenClient] => 
+                            [_events:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_eventWildcards:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_behaviors:yii\base\Component:private] => 
+                        )
+
+                    [3] => yii\validators\FileValidator Object
+                        (
+                            [extensions] => Array
+                                (
+                                    [0] => png
+                                    [1] => jpg
+                                    [2] => jpeg
+                                )
+
+                            [checkExtensionByMimeType] => 1
+                            [mimeTypes] => Array
+                                (
+                                )
+
+                            [minSize] => 
+                            [maxSize] => 
+                            [maxFiles] => 1
+                            [minFiles] => 0
+                            [message] => File upload failed.
+                            [uploadRequired] => Please upload a file.
+                            [tooBig] => The file "{file}" is too big. Its size cannot exceed {formattedLimit}.
+                            [tooSmall] => The file "{file}" is too small. Its size cannot be smaller than {formattedLimit}.
+                            [tooMany] => You can upload at most {limit, number} {limit, plural, one{file} other{files}}.
+                            [tooFew] => You should upload at least {limit, number} {limit, plural, one{file} other{files}}.
+                            [wrongExtension] => Only files with these extensions are allowed: {extensions}.
+                            [wrongMimeType] => Only files with these MIME types are allowed: {mimeTypes}.
+                            [attributes] => Array
+                                (
+                                    [0] => name
+                                )
+
+                            [on] => Array
+                                (
+                                )
+
+                            [except] => Array
+                                (
+                                )
+
+                            [skipOnError] => 1
+                            [skipOnEmpty] => 1
+                            [enableClientValidation] => 1
+                            [isEmpty] => 
+                            [when] => 
+                            [whenClient] => 
+                            [_events:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_eventWildcards:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_behaviors:yii\base\Component:private] => 
+                        )
+
+                )
+
+        )
+
+    [_scenario:yii\base\Model:private] => default
+    [_events:yii\base\Component:private] => Array
+        (
+        )
+
+    [_eventWildcards:yii\base\Component:private] => Array
+        (
+        )
+
+    [_behaviors:yii\base\Component:private] => Array
+        (
+        )
+
+)
+
+[20-Apr-2018 22:37:14 UTC] app\models\ImageUpload Object
+(
+    [photoNewName] => 5b37d843c0782781421e58b4707f83e8.jpg
+    [_attributes:yii\db\BaseActiveRecord:private] => Array
+        (
+            [name] => yii\web\UploadedFile Object
+                (
+                    [name] => 002.jpg
+                    [tempName] => /tmp/phpv96khc
+                    [type] => image/jpeg
+                    [size] => 366372
+                    [error] => 0
+                )
+
+            [user_id] => 2
+            [status] => 0
+        )
+
+    [_oldAttributes:yii\db\BaseActiveRecord:private] => 
+    [_related:yii\db\BaseActiveRecord:private] => Array
+        (
+        )
+
+    [_relationsDependencies:yii\db\BaseActiveRecord:private] => Array
+        (
+        )
+
+    [_errors:yii\base\Model:private] => Array
+        (
+        )
+
+    [_validators:yii\base\Model:private] => ArrayObject Object
+        (
+            [storage:ArrayObject:private] => Array
+                (
+                    [0] => yii\validators\RequiredValidator Object
+                        (
+                            [skipOnEmpty] => 
+                            [requiredValue] => 
+                            [strict] => 
+                            [message] => {attribute} cannot be blank.
+                            [attributes] => Array
+                                (
+                                    [0] => name
+                                    [1] => user_id
+                                    [2] => status
+                                )
+
+                            [on] => Array
+                                (
+                                )
+
+                            [except] => Array
+                                (
+                                )
+
+                            [skipOnError] => 1
+                            [enableClientValidation] => 1
+                            [isEmpty] => 
+                            [when] => 
+                            [whenClient] => 
+                            [_events:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_eventWildcards:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_behaviors:yii\base\Component:private] => 
+                        )
+
+                    [1] => yii\validators\NumberValidator Object
+                        (
+                            [integerOnly] => 1
+                            [max] => 
+                            [min] => 
+                            [tooBig] => 
+                            [tooSmall] => 
+                            [integerPattern] => /^\s*[+-]?\d+\s*$/
+                            [numberPattern] => /^\s*[-+]?[0-9]*\.?[0-9]+([eE][-+]?[0-9]+)?\s*$/
+                            [attributes] => Array
+                                (
+                                    [0] => user_id
+                                    [1] => status
+                                )
+
+                            [message] => {attribute} must be an integer.
+                            [on] => Array
+                                (
+                                )
+
+                            [except] => Array
+                                (
+                                )
+
+                            [skipOnError] => 1
+                            [skipOnEmpty] => 1
+                            [enableClientValidation] => 1
+                            [isEmpty] => 
+                            [when] => 
+                            [whenClient] => 
+                            [_events:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_eventWildcards:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_behaviors:yii\base\Component:private] => 
+                        )
+
+                    [2] => yii\validators\SafeValidator Object
+                        (
+                            [attributes] => Array
+                                (
+                                    [0] => name
+                                )
+
+                            [message] => 
+                            [on] => Array
+                                (
+                                )
+
+                            [except] => Array
+                                (
+                                )
+
+                            [skipOnError] => 1
+                            [skipOnEmpty] => 1
+                            [enableClientValidation] => 1
+                            [isEmpty] => 
+                            [when] => 
+                            [whenClient] => 
+                            [_events:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_eventWildcards:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_behaviors:yii\base\Component:private] => 
+                        )
+
+                    [3] => yii\validators\FileValidator Object
+                        (
+                            [extensions] => Array
+                                (
+                                    [0] => png
+                                    [1] => jpg
+                                    [2] => jpeg
+                                )
+
+                            [checkExtensionByMimeType] => 1
+                            [mimeTypes] => Array
+                                (
+                                )
+
+                            [minSize] => 
+                            [maxSize] => 15728640
+                            [maxFiles] => 1
+                            [minFiles] => 0
+                            [message] => File upload failed.
+                            [uploadRequired] => Please upload a file.
+                            [tooBig] => The file "{file}" is too big. Its size cannot exceed {formattedLimit}.
+                            [tooSmall] => The file "{file}" is too small. Its size cannot be smaller than {formattedLimit}.
+                            [tooMany] => You can upload at most {limit, number} {limit, plural, one{file} other{files}}.
+                            [tooFew] => You should upload at least {limit, number} {limit, plural, one{file} other{files}}.
+                            [wrongExtension] => Only files with these extensions are allowed: {extensions}.
+                            [wrongMimeType] => Only files with these MIME types are allowed: {mimeTypes}.
+                            [attributes] => Array
+                                (
+                                    [0] => name
+                                )
+
+                            [on] => Array
+                                (
+                                )
+
+                            [except] => Array
+                                (
+                                )
+
+                            [skipOnError] => 1
+                            [skipOnEmpty] => 1
+                            [enableClientValidation] => 1
+                            [isEmpty] => 
+                            [when] => 
+                            [whenClient] => 
+                            [_events:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_eventWildcards:yii\base\Component:private] => Array
+                                (
+                                )
+
+                            [_behaviors:yii\base\Component:private] => 
+                        )
+
+                )
+
+        )
+
+    [_scenario:yii\base\Model:private] => default
+    [_events:yii\base\Component:private] => Array
+        (
+        )
+
+    [_eventWildcards:yii\base\Component:private] => Array
+        (
+        )
+
+    [_behaviors:yii\base\Component:private] => Array
+        (
+        )
+
+)
+
+[20-Apr-2018 22:52:11 UTC] yii\db\ActiveQuery Object
+(
+    [sql] => 
+    [on] => 
+    [joinWith] => 
+    [select] => 
+    [selectOption] => 
+    [distinct] => 
+    [from] => 
+    [groupBy] => 
+    [join] => 
+    [having] => 
+    [union] => 
+    [params] => Array
+        (
+        )
+
+    [queryCacheDuration] => 
+    [queryCacheDependency] => 
+    [_events:yii\base\Component:private] => Array
+        (
+        )
+
+    [_eventWildcards:yii\base\Component:private] => Array
+        (
+        )
+
+    [_behaviors:yii\base\Component:private] => Array
+        (
+        )
+
+    [where] => Array
+        (
+            [user)id] => 4
+        )
+
+    [limit] => 
+    [offset] => 
+    [orderBy] => 
+    [indexBy] => 
+    [emulateExecution] => 
+    [modelClass] => app\models\ImageUpload
+    [with] => 
+    [asArray] => 
+    [multiple] => 
+    [primaryModel] => 
+    [link] => 
+    [via] => 
+    [inverseOf] => 
+)
+
+[20-Apr-2018 22:52:53 UTC] 4
+[20-Apr-2018 22:53:51 UTC] yii\db\ActiveQuery Object
+(
+    [sql] => 
+    [on] => 
+    [joinWith] => 
+    [select] => 
+    [selectOption] => 
+    [distinct] => 
+    [from] => 
+    [groupBy] => 
+    [join] => 
+    [having] => 
+    [union] => 
+    [params] => Array
+        (
+        )
+
+    [queryCacheDuration] => 
+    [queryCacheDependency] => 
+    [_events:yii\base\Component:private] => Array
+        (
+        )
+
+    [_eventWildcards:yii\base\Component:private] => Array
+        (
+        )
+
+    [_behaviors:yii\base\Component:private] => Array
+        (
+        )
+
+    [where] => Array
+        (
+            [user_id] => 4
+        )
+
+    [limit] => 
+    [offset] => 
+    [orderBy] => 
+    [indexBy] => 
+    [emulateExecution] => 
+    [modelClass] => app\models\ImageUpload
+    [with] => 
+    [asArray] => 
+    [multiple] => 
+    [primaryModel] => 
+    [link] => 
+    [via] => 
+    [inverseOf] => 
+)
+
+[20-Apr-2018 22:56:31 UTC] Array
+(
+    [0] => app\models\ImageUpload Object
+        (
+            [photoNewName] => 
+            [_attributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 8
+                    [name] => a4bc0ced02f2df7ab4507e56b555c6cd.jpg
+                    [user_id] => 2
+                    [status] => 0
+                )
+
+            [_oldAttributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 8
+                    [name] => a4bc0ced02f2df7ab4507e56b555c6cd.jpg
+                    [user_id] => 2
+                    [status] => 0
+                )
+
+            [_related:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_relationsDependencies:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_errors:yii\base\Model:private] => 
+            [_validators:yii\base\Model:private] => 
+            [_scenario:yii\base\Model:private] => default
+            [_events:yii\base\Component:private] => Array
+                (
+                )
+
+            [_eventWildcards:yii\base\Component:private] => Array
+                (
+                )
+
+            [_behaviors:yii\base\Component:private] => Array
+                (
+                )
+
+        )
+
+    [1] => app\models\ImageUpload Object
+        (
+            [photoNewName] => 
+            [_attributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 9
+                    [name] => 56fb70651471dbef3023f653906b7dc0.jpg
+                    [user_id] => 2
+                    [status] => 0
+                )
+
+            [_oldAttributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 9
+                    [name] => 56fb70651471dbef3023f653906b7dc0.jpg
+                    [user_id] => 2
+                    [status] => 0
+                )
+
+            [_related:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_relationsDependencies:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_errors:yii\base\Model:private] => 
+            [_validators:yii\base\Model:private] => 
+            [_scenario:yii\base\Model:private] => default
+            [_events:yii\base\Component:private] => Array
+                (
+                )
+
+            [_eventWildcards:yii\base\Component:private] => Array
+                (
+                )
+
+            [_behaviors:yii\base\Component:private] => Array
+                (
+                )
+
+        )
+
+    [2] => app\models\ImageUpload Object
+        (
+            [photoNewName] => 
+            [_attributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 10
+                    [name] => a3fa9e28b8233b0a17151a211c5d4036.jpg
+                    [user_id] => 2
+                    [status] => 0
+                )
+
+            [_oldAttributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 10
+                    [name] => a3fa9e28b8233b0a17151a211c5d4036.jpg
+                    [user_id] => 2
+                    [status] => 0
+                )
+
+            [_related:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_relationsDependencies:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_errors:yii\base\Model:private] => 
+            [_validators:yii\base\Model:private] => 
+            [_scenario:yii\base\Model:private] => default
+            [_events:yii\base\Component:private] => Array
+                (
+                )
+
+            [_eventWildcards:yii\base\Component:private] => Array
+                (
+                )
+
+            [_behaviors:yii\base\Component:private] => Array
+                (
+                )
+
+        )
+
+    [3] => app\models\ImageUpload Object
+        (
+            [photoNewName] => 
+            [_attributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 11
+                    [name] => 238445e001596f00ccbd24c476582530.jpg
+                    [user_id] => 2
+                    [status] => 0
+                )
+
+            [_oldAttributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 11
+                    [name] => 238445e001596f00ccbd24c476582530.jpg
+                    [user_id] => 2
+                    [status] => 0
+                )
+
+            [_related:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_relationsDependencies:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_errors:yii\base\Model:private] => 
+            [_validators:yii\base\Model:private] => 
+            [_scenario:yii\base\Model:private] => default
+            [_events:yii\base\Component:private] => Array
+                (
+                )
+
+            [_eventWildcards:yii\base\Component:private] => Array
+                (
+                )
+
+            [_behaviors:yii\base\Component:private] => Array
+                (
+                )
+
+        )
+
+    [4] => app\models\ImageUpload Object
+        (
+            [photoNewName] => 
+            [_attributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 12
+                    [name] => 5b37d843c0782781421e58b4707f83e8.jpg
+                    [user_id] => 2
+                    [status] => 0
+                )
+
+            [_oldAttributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 12
+                    [name] => 5b37d843c0782781421e58b4707f83e8.jpg
+                    [user_id] => 2
+                    [status] => 0
+                )
+
+            [_related:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_relationsDependencies:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_errors:yii\base\Model:private] => 
+            [_validators:yii\base\Model:private] => 
+            [_scenario:yii\base\Model:private] => default
+            [_events:yii\base\Component:private] => Array
+                (
+                )
+
+            [_eventWildcards:yii\base\Component:private] => Array
+                (
+                )
+
+            [_behaviors:yii\base\Component:private] => Array
+                (
+                )
+
+        )
+
+    [5] => app\models\ImageUpload Object
+        (
+            [photoNewName] => 
+            [_attributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 13
+                    [name] => 55473d4c20d4f84e0340ff2e2e415b59.jpg
+                    [user_id] => 4
+                    [status] => 0
+                )
+
+            [_oldAttributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 13
+                    [name] => 55473d4c20d4f84e0340ff2e2e415b59.jpg
+                    [user_id] => 4
+                    [status] => 0
+                )
+
+            [_related:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_relationsDependencies:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_errors:yii\base\Model:private] => 
+            [_validators:yii\base\Model:private] => 
+            [_scenario:yii\base\Model:private] => default
+            [_events:yii\base\Component:private] => Array
+                (
+                )
+
+            [_eventWildcards:yii\base\Component:private] => Array
+                (
+                )
+
+            [_behaviors:yii\base\Component:private] => Array
+                (
+                )
+
+        )
+
+)
+
+[20-Apr-2018 22:58:02 UTC] yii\db\ActiveQuery Object
+(
+    [sql] => 
+    [on] => 
+    [joinWith] => 
+    [select] => 
+    [selectOption] => 
+    [distinct] => 
+    [from] => 
+    [groupBy] => 
+    [join] => 
+    [having] => 
+    [union] => 
+    [params] => Array
+        (
+        )
+
+    [queryCacheDuration] => 
+    [queryCacheDependency] => 
+    [_events:yii\base\Component:private] => Array
+        (
+        )
+
+    [_eventWildcards:yii\base\Component:private] => Array
+        (
+        )
+
+    [_behaviors:yii\base\Component:private] => Array
+        (
+        )
+
+    [where] => Array
+        (
+            [user_id] => 4
+        )
+
+    [limit] => 
+    [offset] => 
+    [orderBy] => 
+    [indexBy] => 
+    [emulateExecution] => 
+    [modelClass] => app\models\ImageUpload
+    [with] => 
+    [asArray] => 
+    [multiple] => 
+    [primaryModel] => 
+    [link] => 
+    [via] => 
+    [inverseOf] => 
+)
+
+[20-Apr-2018 22:59:00 UTC] yii\db\ActiveQuery Object
+(
+    [sql] => 
+    [on] => 
+    [joinWith] => 
+    [select] => 
+    [selectOption] => 
+    [distinct] => 
+    [from] => 
+    [groupBy] => 
+    [join] => 
+    [having] => 
+    [union] => 
+    [params] => Array
+        (
+        )
+
+    [queryCacheDuration] => 
+    [queryCacheDependency] => 
+    [_events:yii\base\Component:private] => Array
+        (
+        )
+
+    [_eventWildcards:yii\base\Component:private] => Array
+        (
+        )
+
+    [_behaviors:yii\base\Component:private] => Array
+        (
+        )
+
+    [where] => Array
+        (
+            [user_id] => 4
+        )
+
+    [limit] => 
+    [offset] => 
+    [orderBy] => 
+    [indexBy] => 
+    [emulateExecution] => 
+    [modelClass] => app\models\ImageUpload
+    [with] => 
+    [asArray] => 
+    [multiple] => 
+    [primaryModel] => 
+    [link] => 
+    [via] => 
+    [inverseOf] => 
+)
+
+[20-Apr-2018 22:59:07 UTC] Array
+(
+    [0] => app\models\ImageUpload Object
+        (
+            [photoNewName] => 
+            [_attributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 13
+                    [name] => 55473d4c20d4f84e0340ff2e2e415b59.jpg
+                    [user_id] => 4
+                    [status] => 0
+                )
+
+            [_oldAttributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 13
+                    [name] => 55473d4c20d4f84e0340ff2e2e415b59.jpg
+                    [user_id] => 4
+                    [status] => 0
+                )
+
+            [_related:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_relationsDependencies:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_errors:yii\base\Model:private] => 
+            [_validators:yii\base\Model:private] => 
+            [_scenario:yii\base\Model:private] => default
+            [_events:yii\base\Component:private] => Array
+                (
+                )
+
+            [_eventWildcards:yii\base\Component:private] => Array
+                (
+                )
+
+            [_behaviors:yii\base\Component:private] => Array
+                (
+                )
+
+        )
+
+)
+
+[20-Apr-2018 22:59:19 UTC] Array
+(
+    [0] => app\models\ImageUpload Object
+        (
+            [photoNewName] => 
+            [_attributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 13
+                    [name] => 55473d4c20d4f84e0340ff2e2e415b59.jpg
+                    [user_id] => 4
+                    [status] => 0
+                )
+
+            [_oldAttributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 13
+                    [name] => 55473d4c20d4f84e0340ff2e2e415b59.jpg
+                    [user_id] => 4
+                    [status] => 0
+                )
+
+            [_related:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_relationsDependencies:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_errors:yii\base\Model:private] => 
+            [_validators:yii\base\Model:private] => 
+            [_scenario:yii\base\Model:private] => default
+            [_events:yii\base\Component:private] => Array
+                (
+                )
+
+            [_eventWildcards:yii\base\Component:private] => Array
+                (
+                )
+
+            [_behaviors:yii\base\Component:private] => Array
+                (
+                )
+
+        )
+
+)
+
+[20-Apr-2018 23:22:22 UTC] Array
+(
+    [0] => app\models\ImageUpload Object
+        (
+            [photoNewName] => 
+            [_attributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 13
+                    [name] => 55473d4c20d4f84e0340ff2e2e415b59.jpg
+                    [user_id] => 4
+                    [status] => 0
+                )
+
+            [_oldAttributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 13
+                    [name] => 55473d4c20d4f84e0340ff2e2e415b59.jpg
+                    [user_id] => 4
+                    [status] => 0
+                )
+
+            [_related:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_relationsDependencies:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_errors:yii\base\Model:private] => 
+            [_validators:yii\base\Model:private] => 
+            [_scenario:yii\base\Model:private] => default
+            [_events:yii\base\Component:private] => Array
+                (
+                )
+
+            [_eventWildcards:yii\base\Component:private] => Array
+                (
+                )
+
+            [_behaviors:yii\base\Component:private] => Array
+                (
+                )
+
+        )
+
+)
+
+[20-Apr-2018 23:25:16 UTC] Array
+(
+    [0] => app\models\ImageUpload Object
+        (
+            [photoNewName] => 
+            [_attributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 13
+                    [name] => 55473d4c20d4f84e0340ff2e2e415b59.jpg
+                    [user_id] => 4
+                    [status] => 0
+                )
+
+            [_oldAttributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 13
+                    [name] => 55473d4c20d4f84e0340ff2e2e415b59.jpg
+                    [user_id] => 4
+                    [status] => 0
+                )
+
+            [_related:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_relationsDependencies:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_errors:yii\base\Model:private] => 
+            [_validators:yii\base\Model:private] => 
+            [_scenario:yii\base\Model:private] => default
+            [_events:yii\base\Component:private] => Array
+                (
+                )
+
+            [_eventWildcards:yii\base\Component:private] => Array
+                (
+                )
+
+            [_behaviors:yii\base\Component:private] => Array
+                (
+                )
+
+        )
+
+)
+
+[21-Apr-2018 12:45:31 UTC] test
+[21-Apr-2018 12:45:47 UTC] Array
+(
+)
+
+[21-Apr-2018 12:48:10 UTC] Array
+(
+    [0] => app\models\User Object
+        (
+            [_attributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 1
+                    [username] => moderator
+                    [auth_key] => OFWWja3rby9no1rRra9bVIW88fT60dLn
+                    [password_hash] => $2y$13$jhLNYgJyd3srbHyH7Mh9JuHLry0c9csiudewEjJbjVBcxbrdCUMNG
+                    [password_reset_token] => 
+                    [email] => moderator@yahoo.com
+                    [status] => 10
+                    [type] => 0
+                    [created_at] => 1524234666
+                    [updated_at] => 1524234666
+                )
+
+            [_oldAttributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 1
+                    [username] => moderator
+                    [auth_key] => OFWWja3rby9no1rRra9bVIW88fT60dLn
+                    [password_hash] => $2y$13$jhLNYgJyd3srbHyH7Mh9JuHLry0c9csiudewEjJbjVBcxbrdCUMNG
+                    [password_reset_token] => 
+                    [email] => moderator@yahoo.com
+                    [status] => 10
+                    [type] => 0
+                    [created_at] => 1524234666
+                    [updated_at] => 1524234666
+                )
+
+            [_related:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_relationsDependencies:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_errors:yii\base\Model:private] => 
+            [_validators:yii\base\Model:private] => 
+            [_scenario:yii\base\Model:private] => default
+            [_events:yii\base\Component:private] => Array
+                (
+                    [beforeInsert] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [0] => yii\behaviors\TimestampBehavior Object
+                                                (
+                                                    [createdAtAttribute] => created_at
+                                                    [updatedAtAttribute] => updated_at
+                                                    [value] => 
+                                                    [attributes] => Array
+                                                        (
+                                                            [beforeInsert] => Array
+                                                                (
+                                                                    [0] => created_at
+                                                                    [1] => updated_at
+                                                                )
+
+                                                            [beforeUpdate] => updated_at
+                                                        )
+
+                                                    [skipUpdateOnClean] => 1
+                                                    [preserveNonEmptyValues] => 
+                                                    [owner] => app\models\User Object
+ *RECURSION*
+                                                )
+
+                                            [1] => evaluateAttributes
+                                        )
+
+                                    [1] => 
+                                )
+
+                        )
+
+                    [beforeUpdate] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [0] => yii\behaviors\TimestampBehavior Object
+                                                (
+                                                    [createdAtAttribute] => created_at
+                                                    [updatedAtAttribute] => updated_at
+                                                    [value] => 
+                                                    [attributes] => Array
+                                                        (
+                                                            [beforeInsert] => Array
+                                                                (
+                                                                    [0] => created_at
+                                                                    [1] => updated_at
+                                                                )
+
+                                                            [beforeUpdate] => updated_at
+                                                        )
+
+                                                    [skipUpdateOnClean] => 1
+                                                    [preserveNonEmptyValues] => 
+                                                    [owner] => app\models\User Object
+ *RECURSION*
+                                                )
+
+                                            [1] => evaluateAttributes
+                                        )
+
+                                    [1] => 
+                                )
+
+                        )
+
+                )
+
+            [_eventWildcards:yii\base\Component:private] => Array
+                (
+                )
+
+            [_behaviors:yii\base\Component:private] => Array
+                (
+                    [0] => yii\behaviors\TimestampBehavior Object
+                        (
+                            [createdAtAttribute] => created_at
+                            [updatedAtAttribute] => updated_at
+                            [value] => 
+                            [attributes] => Array
+                                (
+                                    [beforeInsert] => Array
+                                        (
+                                            [0] => created_at
+                                            [1] => updated_at
+                                        )
+
+                                    [beforeUpdate] => updated_at
+                                )
+
+                            [skipUpdateOnClean] => 1
+                            [preserveNonEmptyValues] => 
+                            [owner] => app\models\User Object
+ *RECURSION*
+                        )
+
+                )
+
+        )
+
+    [1] => app\models\User Object
+        (
+            [_attributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 2
+                    [username] => uploader
+                    [auth_key] => o3ehUz3dEdzVtssLltuZQ4QGvMCY3Pos
+                    [password_hash] => $2y$13$aaAD5y8MlfKidnSFR.aHN.Qfh0CaM9woIVMIRZXRC3sLkwc9w9uZK
+                    [password_reset_token] => 
+                    [email] => wadi077@yahoo.com
+                    [status] => 10
+                    [type] => 1
+                    [created_at] => 1524239411
+                    [updated_at] => 1524239411
+                )
+
+            [_oldAttributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 2
+                    [username] => uploader
+                    [auth_key] => o3ehUz3dEdzVtssLltuZQ4QGvMCY3Pos
+                    [password_hash] => $2y$13$aaAD5y8MlfKidnSFR.aHN.Qfh0CaM9woIVMIRZXRC3sLkwc9w9uZK
+                    [password_reset_token] => 
+                    [email] => wadi077@yahoo.com
+                    [status] => 10
+                    [type] => 1
+                    [created_at] => 1524239411
+                    [updated_at] => 1524239411
+                )
+
+            [_related:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_relationsDependencies:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_errors:yii\base\Model:private] => 
+            [_validators:yii\base\Model:private] => 
+            [_scenario:yii\base\Model:private] => default
+            [_events:yii\base\Component:private] => Array
+                (
+                    [beforeInsert] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [0] => yii\behaviors\TimestampBehavior Object
+                                                (
+                                                    [createdAtAttribute] => created_at
+                                                    [updatedAtAttribute] => updated_at
+                                                    [value] => 
+                                                    [attributes] => Array
+                                                        (
+                                                            [beforeInsert] => Array
+                                                                (
+                                                                    [0] => created_at
+                                                                    [1] => updated_at
+                                                                )
+
+                                                            [beforeUpdate] => updated_at
+                                                        )
+
+                                                    [skipUpdateOnClean] => 1
+                                                    [preserveNonEmptyValues] => 
+                                                    [owner] => app\models\User Object
+ *RECURSION*
+                                                )
+
+                                            [1] => evaluateAttributes
+                                        )
+
+                                    [1] => 
+                                )
+
+                        )
+
+                    [beforeUpdate] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [0] => yii\behaviors\TimestampBehavior Object
+                                                (
+                                                    [createdAtAttribute] => created_at
+                                                    [updatedAtAttribute] => updated_at
+                                                    [value] => 
+                                                    [attributes] => Array
+                                                        (
+                                                            [beforeInsert] => Array
+                                                                (
+                                                                    [0] => created_at
+                                                                    [1] => updated_at
+                                                                )
+
+                                                            [beforeUpdate] => updated_at
+                                                        )
+
+                                                    [skipUpdateOnClean] => 1
+                                                    [preserveNonEmptyValues] => 
+                                                    [owner] => app\models\User Object
+ *RECURSION*
+                                                )
+
+                                            [1] => evaluateAttributes
+                                        )
+
+                                    [1] => 
+                                )
+
+                        )
+
+                )
+
+            [_eventWildcards:yii\base\Component:private] => Array
+                (
+                )
+
+            [_behaviors:yii\base\Component:private] => Array
+                (
+                    [0] => yii\behaviors\TimestampBehavior Object
+                        (
+                            [createdAtAttribute] => created_at
+                            [updatedAtAttribute] => updated_at
+                            [value] => 
+                            [attributes] => Array
+                                (
+                                    [beforeInsert] => Array
+                                        (
+                                            [0] => created_at
+                                            [1] => updated_at
+                                        )
+
+                                    [beforeUpdate] => updated_at
+                                )
+
+                            [skipUpdateOnClean] => 1
+                            [preserveNonEmptyValues] => 
+                            [owner] => app\models\User Object
+ *RECURSION*
+                        )
+
+                )
+
+        )
+
+    [2] => app\models\User Object
+        (
+            [_attributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 3
+                    [username] => mod
+                    [auth_key] => eYdZbHS58PM1pwC6iHoAhn_EfGP_pDJl
+                    [password_hash] => $2y$13$F2qFZOcUmVyyA4HyQd0HbOsQl7NneoxQtpu.u8rlc0lD/kMNxzi8.
+                    [password_reset_token] => 
+                    [email] => digital_admin@yahoo.com
+                    [status] => 10
+                    [type] => 0
+                    [created_at] => 1524239472
+                    [updated_at] => 1524239472
+                )
+
+            [_oldAttributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 3
+                    [username] => mod
+                    [auth_key] => eYdZbHS58PM1pwC6iHoAhn_EfGP_pDJl
+                    [password_hash] => $2y$13$F2qFZOcUmVyyA4HyQd0HbOsQl7NneoxQtpu.u8rlc0lD/kMNxzi8.
+                    [password_reset_token] => 
+                    [email] => digital_admin@yahoo.com
+                    [status] => 10
+                    [type] => 0
+                    [created_at] => 1524239472
+                    [updated_at] => 1524239472
+                )
+
+            [_related:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_relationsDependencies:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_errors:yii\base\Model:private] => 
+            [_validators:yii\base\Model:private] => 
+            [_scenario:yii\base\Model:private] => default
+            [_events:yii\base\Component:private] => Array
+                (
+                    [beforeInsert] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [0] => yii\behaviors\TimestampBehavior Object
+                                                (
+                                                    [createdAtAttribute] => created_at
+                                                    [updatedAtAttribute] => updated_at
+                                                    [value] => 
+                                                    [attributes] => Array
+                                                        (
+                                                            [beforeInsert] => Array
+                                                                (
+                                                                    [0] => created_at
+                                                                    [1] => updated_at
+                                                                )
+
+                                                            [beforeUpdate] => updated_at
+                                                        )
+
+                                                    [skipUpdateOnClean] => 1
+                                                    [preserveNonEmptyValues] => 
+                                                    [owner] => app\models\User Object
+ *RECURSION*
+                                                )
+
+                                            [1] => evaluateAttributes
+                                        )
+
+                                    [1] => 
+                                )
+
+                        )
+
+                    [beforeUpdate] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [0] => yii\behaviors\TimestampBehavior Object
+                                                (
+                                                    [createdAtAttribute] => created_at
+                                                    [updatedAtAttribute] => updated_at
+                                                    [value] => 
+                                                    [attributes] => Array
+                                                        (
+                                                            [beforeInsert] => Array
+                                                                (
+                                                                    [0] => created_at
+                                                                    [1] => updated_at
+                                                                )
+
+                                                            [beforeUpdate] => updated_at
+                                                        )
+
+                                                    [skipUpdateOnClean] => 1
+                                                    [preserveNonEmptyValues] => 
+                                                    [owner] => app\models\User Object
+ *RECURSION*
+                                                )
+
+                                            [1] => evaluateAttributes
+                                        )
+
+                                    [1] => 
+                                )
+
+                        )
+
+                )
+
+            [_eventWildcards:yii\base\Component:private] => Array
+                (
+                )
+
+            [_behaviors:yii\base\Component:private] => Array
+                (
+                    [0] => yii\behaviors\TimestampBehavior Object
+                        (
+                            [createdAtAttribute] => created_at
+                            [updatedAtAttribute] => updated_at
+                            [value] => 
+                            [attributes] => Array
+                                (
+                                    [beforeInsert] => Array
+                                        (
+                                            [0] => created_at
+                                            [1] => updated_at
+                                        )
+
+                                    [beforeUpdate] => updated_at
+                                )
+
+                            [skipUpdateOnClean] => 1
+                            [preserveNonEmptyValues] => 
+                            [owner] => app\models\User Object
+ *RECURSION*
+                        )
+
+                )
+
+        )
+
+    [3] => app\models\User Object
+        (
+            [_attributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 4
+                    [username] => uploader2
+                    [auth_key] => UvUWAyQrDM42adtV1KnmGbl9L9oon15O
+                    [password_hash] => $2y$13$Y6R/qtD7Tjl/b/5W7RZSD.OmvnVivs/JIbILExvnJRohuuB572Rzq
+                    [password_reset_token] => 
+                    [email] => wadi078@yahoo.com
+                    [status] => 10
+                    [type] => 1
+                    [created_at] => 1524264144
+                    [updated_at] => 1524264144
+                )
+
+            [_oldAttributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 4
+                    [username] => uploader2
+                    [auth_key] => UvUWAyQrDM42adtV1KnmGbl9L9oon15O
+                    [password_hash] => $2y$13$Y6R/qtD7Tjl/b/5W7RZSD.OmvnVivs/JIbILExvnJRohuuB572Rzq
+                    [password_reset_token] => 
+                    [email] => wadi078@yahoo.com
+                    [status] => 10
+                    [type] => 1
+                    [created_at] => 1524264144
+                    [updated_at] => 1524264144
+                )
+
+            [_related:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_relationsDependencies:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_errors:yii\base\Model:private] => 
+            [_validators:yii\base\Model:private] => 
+            [_scenario:yii\base\Model:private] => default
+            [_events:yii\base\Component:private] => Array
+                (
+                    [beforeInsert] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [0] => yii\behaviors\TimestampBehavior Object
+                                                (
+                                                    [createdAtAttribute] => created_at
+                                                    [updatedAtAttribute] => updated_at
+                                                    [value] => 
+                                                    [attributes] => Array
+                                                        (
+                                                            [beforeInsert] => Array
+                                                                (
+                                                                    [0] => created_at
+                                                                    [1] => updated_at
+                                                                )
+
+                                                            [beforeUpdate] => updated_at
+                                                        )
+
+                                                    [skipUpdateOnClean] => 1
+                                                    [preserveNonEmptyValues] => 
+                                                    [owner] => app\models\User Object
+ *RECURSION*
+                                                )
+
+                                            [1] => evaluateAttributes
+                                        )
+
+                                    [1] => 
+                                )
+
+                        )
+
+                    [beforeUpdate] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [0] => yii\behaviors\TimestampBehavior Object
+                                                (
+                                                    [createdAtAttribute] => created_at
+                                                    [updatedAtAttribute] => updated_at
+                                                    [value] => 
+                                                    [attributes] => Array
+                                                        (
+                                                            [beforeInsert] => Array
+                                                                (
+                                                                    [0] => created_at
+                                                                    [1] => updated_at
+                                                                )
+
+                                                            [beforeUpdate] => updated_at
+                                                        )
+
+                                                    [skipUpdateOnClean] => 1
+                                                    [preserveNonEmptyValues] => 
+                                                    [owner] => app\models\User Object
+ *RECURSION*
+                                                )
+
+                                            [1] => evaluateAttributes
+                                        )
+
+                                    [1] => 
+                                )
+
+                        )
+
+                )
+
+            [_eventWildcards:yii\base\Component:private] => Array
+                (
+                )
+
+            [_behaviors:yii\base\Component:private] => Array
+                (
+                    [0] => yii\behaviors\TimestampBehavior Object
+                        (
+                            [createdAtAttribute] => created_at
+                            [updatedAtAttribute] => updated_at
+                            [value] => 
+                            [attributes] => Array
+                                (
+                                    [beforeInsert] => Array
+                                        (
+                                            [0] => created_at
+                                            [1] => updated_at
+                                        )
+
+                                    [beforeUpdate] => updated_at
+                                )
+
+                            [skipUpdateOnClean] => 1
+                            [preserveNonEmptyValues] => 
+                            [owner] => app\models\User Object
+ *RECURSION*
+                        )
+
+                )
+
+        )
+
+)
+
+[21-Apr-2018 12:49:38 UTC] Array
+(
+    [0] => app\models\User Object
+        (
+            [_attributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 2
+                    [username] => uploader
+                    [auth_key] => o3ehUz3dEdzVtssLltuZQ4QGvMCY3Pos
+                    [password_hash] => $2y$13$aaAD5y8MlfKidnSFR.aHN.Qfh0CaM9woIVMIRZXRC3sLkwc9w9uZK
+                    [password_reset_token] => 
+                    [email] => wadi077@yahoo.com
+                    [status] => 10
+                    [type] => 1
+                    [created_at] => 1524239411
+                    [updated_at] => 1524239411
+                )
+
+            [_oldAttributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 2
+                    [username] => uploader
+                    [auth_key] => o3ehUz3dEdzVtssLltuZQ4QGvMCY3Pos
+                    [password_hash] => $2y$13$aaAD5y8MlfKidnSFR.aHN.Qfh0CaM9woIVMIRZXRC3sLkwc9w9uZK
+                    [password_reset_token] => 
+                    [email] => wadi077@yahoo.com
+                    [status] => 10
+                    [type] => 1
+                    [created_at] => 1524239411
+                    [updated_at] => 1524239411
+                )
+
+            [_related:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_relationsDependencies:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_errors:yii\base\Model:private] => 
+            [_validators:yii\base\Model:private] => 
+            [_scenario:yii\base\Model:private] => default
+            [_events:yii\base\Component:private] => Array
+                (
+                    [beforeInsert] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [0] => yii\behaviors\TimestampBehavior Object
+                                                (
+                                                    [createdAtAttribute] => created_at
+                                                    [updatedAtAttribute] => updated_at
+                                                    [value] => 
+                                                    [attributes] => Array
+                                                        (
+                                                            [beforeInsert] => Array
+                                                                (
+                                                                    [0] => created_at
+                                                                    [1] => updated_at
+                                                                )
+
+                                                            [beforeUpdate] => updated_at
+                                                        )
+
+                                                    [skipUpdateOnClean] => 1
+                                                    [preserveNonEmptyValues] => 
+                                                    [owner] => app\models\User Object
+ *RECURSION*
+                                                )
+
+                                            [1] => evaluateAttributes
+                                        )
+
+                                    [1] => 
+                                )
+
+                        )
+
+                    [beforeUpdate] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [0] => yii\behaviors\TimestampBehavior Object
+                                                (
+                                                    [createdAtAttribute] => created_at
+                                                    [updatedAtAttribute] => updated_at
+                                                    [value] => 
+                                                    [attributes] => Array
+                                                        (
+                                                            [beforeInsert] => Array
+                                                                (
+                                                                    [0] => created_at
+                                                                    [1] => updated_at
+                                                                )
+
+                                                            [beforeUpdate] => updated_at
+                                                        )
+
+                                                    [skipUpdateOnClean] => 1
+                                                    [preserveNonEmptyValues] => 
+                                                    [owner] => app\models\User Object
+ *RECURSION*
+                                                )
+
+                                            [1] => evaluateAttributes
+                                        )
+
+                                    [1] => 
+                                )
+
+                        )
+
+                )
+
+            [_eventWildcards:yii\base\Component:private] => Array
+                (
+                )
+
+            [_behaviors:yii\base\Component:private] => Array
+                (
+                    [0] => yii\behaviors\TimestampBehavior Object
+                        (
+                            [createdAtAttribute] => created_at
+                            [updatedAtAttribute] => updated_at
+                            [value] => 
+                            [attributes] => Array
+                                (
+                                    [beforeInsert] => Array
+                                        (
+                                            [0] => created_at
+                                            [1] => updated_at
+                                        )
+
+                                    [beforeUpdate] => updated_at
+                                )
+
+                            [skipUpdateOnClean] => 1
+                            [preserveNonEmptyValues] => 
+                            [owner] => app\models\User Object
+ *RECURSION*
+                        )
+
+                )
+
+        )
+
+    [1] => app\models\User Object
+        (
+            [_attributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 4
+                    [username] => uploader2
+                    [auth_key] => UvUWAyQrDM42adtV1KnmGbl9L9oon15O
+                    [password_hash] => $2y$13$Y6R/qtD7Tjl/b/5W7RZSD.OmvnVivs/JIbILExvnJRohuuB572Rzq
+                    [password_reset_token] => 
+                    [email] => wadi078@yahoo.com
+                    [status] => 10
+                    [type] => 1
+                    [created_at] => 1524264144
+                    [updated_at] => 1524264144
+                )
+
+            [_oldAttributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 4
+                    [username] => uploader2
+                    [auth_key] => UvUWAyQrDM42adtV1KnmGbl9L9oon15O
+                    [password_hash] => $2y$13$Y6R/qtD7Tjl/b/5W7RZSD.OmvnVivs/JIbILExvnJRohuuB572Rzq
+                    [password_reset_token] => 
+                    [email] => wadi078@yahoo.com
+                    [status] => 10
+                    [type] => 1
+                    [created_at] => 1524264144
+                    [updated_at] => 1524264144
+                )
+
+            [_related:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_relationsDependencies:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_errors:yii\base\Model:private] => 
+            [_validators:yii\base\Model:private] => 
+            [_scenario:yii\base\Model:private] => default
+            [_events:yii\base\Component:private] => Array
+                (
+                    [beforeInsert] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [0] => yii\behaviors\TimestampBehavior Object
+                                                (
+                                                    [createdAtAttribute] => created_at
+                                                    [updatedAtAttribute] => updated_at
+                                                    [value] => 
+                                                    [attributes] => Array
+                                                        (
+                                                            [beforeInsert] => Array
+                                                                (
+                                                                    [0] => created_at
+                                                                    [1] => updated_at
+                                                                )
+
+                                                            [beforeUpdate] => updated_at
+                                                        )
+
+                                                    [skipUpdateOnClean] => 1
+                                                    [preserveNonEmptyValues] => 
+                                                    [owner] => app\models\User Object
+ *RECURSION*
+                                                )
+
+                                            [1] => evaluateAttributes
+                                        )
+
+                                    [1] => 
+                                )
+
+                        )
+
+                    [beforeUpdate] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [0] => yii\behaviors\TimestampBehavior Object
+                                                (
+                                                    [createdAtAttribute] => created_at
+                                                    [updatedAtAttribute] => updated_at
+                                                    [value] => 
+                                                    [attributes] => Array
+                                                        (
+                                                            [beforeInsert] => Array
+                                                                (
+                                                                    [0] => created_at
+                                                                    [1] => updated_at
+                                                                )
+
+                                                            [beforeUpdate] => updated_at
+                                                        )
+
+                                                    [skipUpdateOnClean] => 1
+                                                    [preserveNonEmptyValues] => 
+                                                    [owner] => app\models\User Object
+ *RECURSION*
+                                                )
+
+                                            [1] => evaluateAttributes
+                                        )
+
+                                    [1] => 
+                                )
+
+                        )
+
+                )
+
+            [_eventWildcards:yii\base\Component:private] => Array
+                (
+                )
+
+            [_behaviors:yii\base\Component:private] => Array
+                (
+                    [0] => yii\behaviors\TimestampBehavior Object
+                        (
+                            [createdAtAttribute] => created_at
+                            [updatedAtAttribute] => updated_at
+                            [value] => 
+                            [attributes] => Array
+                                (
+                                    [beforeInsert] => Array
+                                        (
+                                            [0] => created_at
+                                            [1] => updated_at
+                                        )
+
+                                    [beforeUpdate] => updated_at
+                                )
+
+                            [skipUpdateOnClean] => 1
+                            [preserveNonEmptyValues] => 
+                            [owner] => app\models\User Object
+ *RECURSION*
+                        )
+
+                )
+
+        )
+
+)
+
+[21-Apr-2018 12:49:52 UTC] Array
+(
+    [0] => app\models\User Object
+        (
+            [_attributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 2
+                    [username] => uploader
+                    [auth_key] => o3ehUz3dEdzVtssLltuZQ4QGvMCY3Pos
+                    [password_hash] => $2y$13$aaAD5y8MlfKidnSFR.aHN.Qfh0CaM9woIVMIRZXRC3sLkwc9w9uZK
+                    [password_reset_token] => 
+                    [email] => wadi077@yahoo.com
+                    [status] => 10
+                    [type] => 1
+                    [created_at] => 1524239411
+                    [updated_at] => 1524239411
+                )
+
+            [_oldAttributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 2
+                    [username] => uploader
+                    [auth_key] => o3ehUz3dEdzVtssLltuZQ4QGvMCY3Pos
+                    [password_hash] => $2y$13$aaAD5y8MlfKidnSFR.aHN.Qfh0CaM9woIVMIRZXRC3sLkwc9w9uZK
+                    [password_reset_token] => 
+                    [email] => wadi077@yahoo.com
+                    [status] => 10
+                    [type] => 1
+                    [created_at] => 1524239411
+                    [updated_at] => 1524239411
+                )
+
+            [_related:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_relationsDependencies:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_errors:yii\base\Model:private] => 
+            [_validators:yii\base\Model:private] => 
+            [_scenario:yii\base\Model:private] => default
+            [_events:yii\base\Component:private] => Array
+                (
+                    [beforeInsert] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [0] => yii\behaviors\TimestampBehavior Object
+                                                (
+                                                    [createdAtAttribute] => created_at
+                                                    [updatedAtAttribute] => updated_at
+                                                    [value] => 
+                                                    [attributes] => Array
+                                                        (
+                                                            [beforeInsert] => Array
+                                                                (
+                                                                    [0] => created_at
+                                                                    [1] => updated_at
+                                                                )
+
+                                                            [beforeUpdate] => updated_at
+                                                        )
+
+                                                    [skipUpdateOnClean] => 1
+                                                    [preserveNonEmptyValues] => 
+                                                    [owner] => app\models\User Object
+ *RECURSION*
+                                                )
+
+                                            [1] => evaluateAttributes
+                                        )
+
+                                    [1] => 
+                                )
+
+                        )
+
+                    [beforeUpdate] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [0] => yii\behaviors\TimestampBehavior Object
+                                                (
+                                                    [createdAtAttribute] => created_at
+                                                    [updatedAtAttribute] => updated_at
+                                                    [value] => 
+                                                    [attributes] => Array
+                                                        (
+                                                            [beforeInsert] => Array
+                                                                (
+                                                                    [0] => created_at
+                                                                    [1] => updated_at
+                                                                )
+
+                                                            [beforeUpdate] => updated_at
+                                                        )
+
+                                                    [skipUpdateOnClean] => 1
+                                                    [preserveNonEmptyValues] => 
+                                                    [owner] => app\models\User Object
+ *RECURSION*
+                                                )
+
+                                            [1] => evaluateAttributes
+                                        )
+
+                                    [1] => 
+                                )
+
+                        )
+
+                )
+
+            [_eventWildcards:yii\base\Component:private] => Array
+                (
+                )
+
+            [_behaviors:yii\base\Component:private] => Array
+                (
+                    [0] => yii\behaviors\TimestampBehavior Object
+                        (
+                            [createdAtAttribute] => created_at
+                            [updatedAtAttribute] => updated_at
+                            [value] => 
+                            [attributes] => Array
+                                (
+                                    [beforeInsert] => Array
+                                        (
+                                            [0] => created_at
+                                            [1] => updated_at
+                                        )
+
+                                    [beforeUpdate] => updated_at
+                                )
+
+                            [skipUpdateOnClean] => 1
+                            [preserveNonEmptyValues] => 
+                            [owner] => app\models\User Object
+ *RECURSION*
+                        )
+
+                )
+
+        )
+
+    [1] => app\models\User Object
+        (
+            [_attributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 4
+                    [username] => uploader2
+                    [auth_key] => UvUWAyQrDM42adtV1KnmGbl9L9oon15O
+                    [password_hash] => $2y$13$Y6R/qtD7Tjl/b/5W7RZSD.OmvnVivs/JIbILExvnJRohuuB572Rzq
+                    [password_reset_token] => 
+                    [email] => wadi078@yahoo.com
+                    [status] => 10
+                    [type] => 1
+                    [created_at] => 1524264144
+                    [updated_at] => 1524264144
+                )
+
+            [_oldAttributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 4
+                    [username] => uploader2
+                    [auth_key] => UvUWAyQrDM42adtV1KnmGbl9L9oon15O
+                    [password_hash] => $2y$13$Y6R/qtD7Tjl/b/5W7RZSD.OmvnVivs/JIbILExvnJRohuuB572Rzq
+                    [password_reset_token] => 
+                    [email] => wadi078@yahoo.com
+                    [status] => 10
+                    [type] => 1
+                    [created_at] => 1524264144
+                    [updated_at] => 1524264144
+                )
+
+            [_related:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_relationsDependencies:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_errors:yii\base\Model:private] => 
+            [_validators:yii\base\Model:private] => 
+            [_scenario:yii\base\Model:private] => default
+            [_events:yii\base\Component:private] => Array
+                (
+                    [beforeInsert] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [0] => yii\behaviors\TimestampBehavior Object
+                                                (
+                                                    [createdAtAttribute] => created_at
+                                                    [updatedAtAttribute] => updated_at
+                                                    [value] => 
+                                                    [attributes] => Array
+                                                        (
+                                                            [beforeInsert] => Array
+                                                                (
+                                                                    [0] => created_at
+                                                                    [1] => updated_at
+                                                                )
+
+                                                            [beforeUpdate] => updated_at
+                                                        )
+
+                                                    [skipUpdateOnClean] => 1
+                                                    [preserveNonEmptyValues] => 
+                                                    [owner] => app\models\User Object
+ *RECURSION*
+                                                )
+
+                                            [1] => evaluateAttributes
+                                        )
+
+                                    [1] => 
+                                )
+
+                        )
+
+                    [beforeUpdate] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [0] => yii\behaviors\TimestampBehavior Object
+                                                (
+                                                    [createdAtAttribute] => created_at
+                                                    [updatedAtAttribute] => updated_at
+                                                    [value] => 
+                                                    [attributes] => Array
+                                                        (
+                                                            [beforeInsert] => Array
+                                                                (
+                                                                    [0] => created_at
+                                                                    [1] => updated_at
+                                                                )
+
+                                                            [beforeUpdate] => updated_at
+                                                        )
+
+                                                    [skipUpdateOnClean] => 1
+                                                    [preserveNonEmptyValues] => 
+                                                    [owner] => app\models\User Object
+ *RECURSION*
+                                                )
+
+                                            [1] => evaluateAttributes
+                                        )
+
+                                    [1] => 
+                                )
+
+                        )
+
+                )
+
+            [_eventWildcards:yii\base\Component:private] => Array
+                (
+                )
+
+            [_behaviors:yii\base\Component:private] => Array
+                (
+                    [0] => yii\behaviors\TimestampBehavior Object
+                        (
+                            [createdAtAttribute] => created_at
+                            [updatedAtAttribute] => updated_at
+                            [value] => 
+                            [attributes] => Array
+                                (
+                                    [beforeInsert] => Array
+                                        (
+                                            [0] => created_at
+                                            [1] => updated_at
+                                        )
+
+                                    [beforeUpdate] => updated_at
+                                )
+
+                            [skipUpdateOnClean] => 1
+                            [preserveNonEmptyValues] => 
+                            [owner] => app\models\User Object
+ *RECURSION*
+                        )
+
+                )
+
+        )
+
+)
+
+[21-Apr-2018 13:00:30 UTC] Array
+(
+    [0] => app\models\ImageUpload Object
+        (
+            [photoNewName] => 
+            [_attributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 8
+                    [name] => a4bc0ced02f2df7ab4507e56b555c6cd.jpg
+                    [user_id] => 2
+                    [status] => 0
+                )
+
+            [_oldAttributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 8
+                    [name] => a4bc0ced02f2df7ab4507e56b555c6cd.jpg
+                    [user_id] => 2
+                    [status] => 0
+                )
+
+            [_related:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_relationsDependencies:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_errors:yii\base\Model:private] => 
+            [_validators:yii\base\Model:private] => 
+            [_scenario:yii\base\Model:private] => default
+            [_events:yii\base\Component:private] => Array
+                (
+                )
+
+            [_eventWildcards:yii\base\Component:private] => Array
+                (
+                )
+
+            [_behaviors:yii\base\Component:private] => Array
+                (
+                )
+
+        )
+
+    [1] => app\models\ImageUpload Object
+        (
+            [photoNewName] => 
+            [_attributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 9
+                    [name] => 56fb70651471dbef3023f653906b7dc0.jpg
+                    [user_id] => 2
+                    [status] => 0
+                )
+
+            [_oldAttributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 9
+                    [name] => 56fb70651471dbef3023f653906b7dc0.jpg
+                    [user_id] => 2
+                    [status] => 0
+                )
+
+            [_related:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_relationsDependencies:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_errors:yii\base\Model:private] => 
+            [_validators:yii\base\Model:private] => 
+            [_scenario:yii\base\Model:private] => default
+            [_events:yii\base\Component:private] => Array
+                (
+                )
+
+            [_eventWildcards:yii\base\Component:private] => Array
+                (
+                )
+
+            [_behaviors:yii\base\Component:private] => Array
+                (
+                )
+
+        )
+
+    [2] => app\models\ImageUpload Object
+        (
+            [photoNewName] => 
+            [_attributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 10
+                    [name] => a3fa9e28b8233b0a17151a211c5d4036.jpg
+                    [user_id] => 2
+                    [status] => 0
+                )
+
+            [_oldAttributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 10
+                    [name] => a3fa9e28b8233b0a17151a211c5d4036.jpg
+                    [user_id] => 2
+                    [status] => 0
+                )
+
+            [_related:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_relationsDependencies:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_errors:yii\base\Model:private] => 
+            [_validators:yii\base\Model:private] => 
+            [_scenario:yii\base\Model:private] => default
+            [_events:yii\base\Component:private] => Array
+                (
+                )
+
+            [_eventWildcards:yii\base\Component:private] => Array
+                (
+                )
+
+            [_behaviors:yii\base\Component:private] => Array
+                (
+                )
+
+        )
+
+    [3] => app\models\ImageUpload Object
+        (
+            [photoNewName] => 
+            [_attributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 11
+                    [name] => 238445e001596f00ccbd24c476582530.jpg
+                    [user_id] => 2
+                    [status] => 0
+                )
+
+            [_oldAttributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 11
+                    [name] => 238445e001596f00ccbd24c476582530.jpg
+                    [user_id] => 2
+                    [status] => 0
+                )
+
+            [_related:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_relationsDependencies:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_errors:yii\base\Model:private] => 
+            [_validators:yii\base\Model:private] => 
+            [_scenario:yii\base\Model:private] => default
+            [_events:yii\base\Component:private] => Array
+                (
+                )
+
+            [_eventWildcards:yii\base\Component:private] => Array
+                (
+                )
+
+            [_behaviors:yii\base\Component:private] => Array
+                (
+                )
+
+        )
+
+    [4] => app\models\ImageUpload Object
+        (
+            [photoNewName] => 
+            [_attributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 12
+                    [name] => 5b37d843c0782781421e58b4707f83e8.jpg
+                    [user_id] => 2
+                    [status] => 0
+                )
+
+            [_oldAttributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 12
+                    [name] => 5b37d843c0782781421e58b4707f83e8.jpg
+                    [user_id] => 2
+                    [status] => 0
+                )
+
+            [_related:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_relationsDependencies:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_errors:yii\base\Model:private] => 
+            [_validators:yii\base\Model:private] => 
+            [_scenario:yii\base\Model:private] => default
+            [_events:yii\base\Component:private] => Array
+                (
+                )
+
+            [_eventWildcards:yii\base\Component:private] => Array
+                (
+                )
+
+            [_behaviors:yii\base\Component:private] => Array
+                (
+                )
+
+        )
+
+)
+
+[21-Apr-2018 13:00:30 UTC] Array
+(
+    [0] => app\models\ImageUpload Object
+        (
+            [photoNewName] => 
+            [_attributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 13
+                    [name] => 55473d4c20d4f84e0340ff2e2e415b59.jpg
+                    [user_id] => 4
+                    [status] => 0
+                )
+
+            [_oldAttributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 13
+                    [name] => 55473d4c20d4f84e0340ff2e2e415b59.jpg
+                    [user_id] => 4
+                    [status] => 0
+                )
+
+            [_related:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_relationsDependencies:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_errors:yii\base\Model:private] => 
+            [_validators:yii\base\Model:private] => 
+            [_scenario:yii\base\Model:private] => default
+            [_events:yii\base\Component:private] => Array
+                (
+                )
+
+            [_eventWildcards:yii\base\Component:private] => Array
+                (
+                )
+
+            [_behaviors:yii\base\Component:private] => Array
+                (
+                )
+
+        )
+
+    [1] => app\models\ImageUpload Object
+        (
+            [photoNewName] => 
+            [_attributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 14
+                    [name] => 0bb0ff32e568766f31faf8f87fd091cb.jpg
+                    [user_id] => 4
+                    [status] => 0
+                )
+
+            [_oldAttributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 14
+                    [name] => 0bb0ff32e568766f31faf8f87fd091cb.jpg
+                    [user_id] => 4
+                    [status] => 0
+                )
+
+            [_related:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_relationsDependencies:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_errors:yii\base\Model:private] => 
+            [_validators:yii\base\Model:private] => 
+            [_scenario:yii\base\Model:private] => default
+            [_events:yii\base\Component:private] => Array
+                (
+                )
+
+            [_eventWildcards:yii\base\Component:private] => Array
+                (
+                )
+
+            [_behaviors:yii\base\Component:private] => Array
+                (
+                )
+
+        )
+
+    [2] => app\models\ImageUpload Object
+        (
+            [photoNewName] => 
+            [_attributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 15
+                    [name] => cc9af943d56e33fcb1ce1dd768c38280.jpg
+                    [user_id] => 4
+                    [status] => 0
+                )
+
+            [_oldAttributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 15
+                    [name] => cc9af943d56e33fcb1ce1dd768c38280.jpg
+                    [user_id] => 4
+                    [status] => 0
+                )
+
+            [_related:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_relationsDependencies:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_errors:yii\base\Model:private] => 
+            [_validators:yii\base\Model:private] => 
+            [_scenario:yii\base\Model:private] => default
+            [_events:yii\base\Component:private] => Array
+                (
+                )
+
+            [_eventWildcards:yii\base\Component:private] => Array
+                (
+                )
+
+            [_behaviors:yii\base\Component:private] => Array
+                (
+                )
+
+        )
+
+    [3] => app\models\ImageUpload Object
+        (
+            [photoNewName] => 
+            [_attributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 19
+                    [name] => 310d0fdf562f40453249df4250807137.jpg
+                    [user_id] => 4
+                    [status] => 0
+                )
+
+            [_oldAttributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 19
+                    [name] => 310d0fdf562f40453249df4250807137.jpg
+                    [user_id] => 4
+                    [status] => 0
+                )
+
+            [_related:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_relationsDependencies:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_errors:yii\base\Model:private] => 
+            [_validators:yii\base\Model:private] => 
+            [_scenario:yii\base\Model:private] => default
+            [_events:yii\base\Component:private] => Array
+                (
+                )
+
+            [_eventWildcards:yii\base\Component:private] => Array
+                (
+                )
+
+            [_behaviors:yii\base\Component:private] => Array
+                (
+                )
+
+        )
+
+    [4] => app\models\ImageUpload Object
+        (
+            [photoNewName] => 
+            [_attributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 20
+                    [name] => c8c190c6647ce3f4329943a7953a1eb2.jpg
+                    [user_id] => 4
+                    [status] => 0
+                )
+
+            [_oldAttributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 20
+                    [name] => c8c190c6647ce3f4329943a7953a1eb2.jpg
+                    [user_id] => 4
+                    [status] => 0
+                )
+
+            [_related:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_relationsDependencies:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_errors:yii\base\Model:private] => 
+            [_validators:yii\base\Model:private] => 
+            [_scenario:yii\base\Model:private] => default
+            [_events:yii\base\Component:private] => Array
+                (
+                )
+
+            [_eventWildcards:yii\base\Component:private] => Array
+                (
+                )
+
+            [_behaviors:yii\base\Component:private] => Array
+                (
+                )
+
+        )
+
+    [5] => app\models\ImageUpload Object
+        (
+            [photoNewName] => 
+            [_attributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 21
+                    [name] => b5baa2d56f5cd687fd27404bed5a427f.png
+                    [user_id] => 4
+                    [status] => 0
+                )
+
+            [_oldAttributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 21
+                    [name] => b5baa2d56f5cd687fd27404bed5a427f.png
+                    [user_id] => 4
+                    [status] => 0
+                )
+
+            [_related:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_relationsDependencies:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_errors:yii\base\Model:private] => 
+            [_validators:yii\base\Model:private] => 
+            [_scenario:yii\base\Model:private] => default
+            [_events:yii\base\Component:private] => Array
+                (
+                )
+
+            [_eventWildcards:yii\base\Component:private] => Array
+                (
+                )
+
+            [_behaviors:yii\base\Component:private] => Array
+                (
+                )
+
+        )
+
+    [6] => app\models\ImageUpload Object
+        (
+            [photoNewName] => 
+            [_attributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 22
+                    [name] => e4daff7c12bfde29527a8efd3ba38204.jpg
+                    [user_id] => 4
+                    [status] => 0
+                )
+
+            [_oldAttributes:yii\db\BaseActiveRecord:private] => Array
+                (
+                    [id] => 22
+                    [name] => e4daff7c12bfde29527a8efd3ba38204.jpg
+                    [user_id] => 4
+                    [status] => 0
+                )
+
+            [_related:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_relationsDependencies:yii\db\BaseActiveRecord:private] => Array
+                (
+                )
+
+            [_errors:yii\base\Model:private] => 
+            [_validators:yii\base\Model:private] => 
+            [_scenario:yii\base\Model:private] => default
+            [_events:yii\base\Component:private] => Array
+                (
+                )
+
+            [_eventWildcards:yii\base\Component:private] => Array
+                (
+                )
+
+            [_behaviors:yii\base\Component:private] => Array
+                (
+                )
+
+        )
+
+)
+
+[21-Apr-2018 13:01:35 UTC] 5
+[21-Apr-2018 13:01:35 UTC] 7
+[21-Apr-2018 13:08:29 UTC] Array
+(
+    [0] => Array
+        (
+            [id] => 2
+            [username] => uploader
+            [pCount] => 5
+            [aCount] => 0
+            [rCount] => 0
+        )
+
+    [1] => Array
+        (
+            [id] => 4
+            [username] => uploader2
+            [pCount] => 7
+            [aCount] => 1
+            [rCount] => 1
+        )
+
+)
+
